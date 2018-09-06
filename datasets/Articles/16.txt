@@ -1,0 +1,1273 @@
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--><html class="no-js section-briefing format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" itemid="https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" itemscope="" itemtype="http://schema.org/NewsArticle" lang="en" xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-briefing format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-briefing format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-briefing format-medium tone-news app-article page-theme-standard has-top-ad type-size-small" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head><script src="/static/js/ait-client-rewrite.js" type="text/javascript"></script>
+<script type="text/javascript">
+WB_wombat_Init('http://web.archive.org/web', '20171231184744', 'www.nytimes.com');
+</script>
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app39.us.archive.org';v.server_ms=1690;archive_analytics.send_pageview({});});</script><script charset="utf-8" src="/static/js/wbhack.js?v=1533593143.0" type="text/javascript"></script>
+<script type="text/javascript">
+__wbhack.init('http://web.archive.org/web');
+</script>
+<link href="/static/css/banner-styles.css?v=1533593143.0" rel="stylesheet" type="text/css"/>
+<link href="/static/css/iconochive.css?v=1533593143.0" rel="stylesheet" type="text/css"/>
+<!-- End Wayback Rewrite JS Include -->
+<title>New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing - The New York Times</title>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<link href="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/favicon.ico" rel="shortcut icon"/>
+<link href="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/icons/ios-ipad-144x144.png" rel="apple-touch-icon-precomposed" sizes="144×144"/>
+<link href="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/icons/ios-iphone-114x144.png" rel="apple-touch-icon-precomposed" sizes="114×114"/>
+<link href="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png" rel="apple-touch-icon-precomposed"/>
+<meta content="nyt-v5" name="sourceApp"/>
+<meta content="article" id="applicationName" name="applicationName"/>
+<meta content="" id="foundation-build-id" name="foundation-build-id"/>
+<link href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" rel="canonical"/>
+<link href="http://web.archive.org/web/20171231184744/http://mobile.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="http://web.archive.org/web/20171231184744/http://mobile.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" media="handheld" rel="alternate"/>
+<link href="http://web.archive.org/web/20171231184744/https://mobile.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.amp.html" rel="amphtml"/>
+<meta content="nytimes://reader/id/100000005630766" property="al:android:url"/>
+<meta content="com.nytimes.android" property="al:android:package"/>
+<meta content="NYTimes" property="al:android:app_name"/>
+<meta content="NYTimes" name="twitter:app:name:googleplay"/>
+<meta content="com.nytimes.android" name="twitter:app:id:googleplay"/>
+<meta content="nytimes://reader/id/100000005630766" name="twitter:app:url:googleplay"/>
+<link href="http://web.archive.org/web/20171231184744/android-app://com.nytimes.android/nytimes/reader/id/100000005630766" rel="alternate"/>
+<meta content="nytimes://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" property="al:iphone:url"/>
+<meta content="284862083" property="al:iphone:app_store_id"/>
+<meta content="NYTimes" property="al:iphone:app_name"/>
+<meta content="nytimes://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" property="al:ipad:url"/>
+<meta content="357066198" property="al:ipad:app_store_id"/>
+<meta content="NYTimes" property="al:ipad:app_name"/>
+<meta content="noarchive" name="robots"/>
+<meta content="Your Weekend Briefing" itemprop="alternativeHeadline" name="hdl_p"/>
+<meta content="" name="channels"/>
+<meta content="Here’s what you need to know about the week’s top stories." itemprop="description" name="description"/>
+<meta content="briefing" itemprop="genre" name="genre"/>
+<meta content="100000005630766" itemprop="identifier" name="articleid"/>
+<meta content="https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html" itemprop="usageTerms" name="usageTerms"/>
+<meta content="en-US" itemprop="inLanguage"/>
+<meta content="New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing" name="hdl"/>
+<meta content="" id="column-name" name="col"/>
+<meta content="20171231" name="pdate"/>
+<meta content="20171231080054" name="utime"/>
+<meta content="20171231060029" name="ptime"/>
+<meta content="Dec. 31, 2017" name="DISPLAYDATE"/>
+<meta content="Dec. 31, 2017" name="dat"/>
+<meta content="Here’s what you need to know about the week’s top stories." name="lp"/>
+<meta content="http://www.nytimes.com" name="msapplication-starturl"/>
+<meta content="The New York Times" name="cre"/>
+<meta content="31weekend-briefing" name="slug"/>
+<meta content="https://static01.nyt.com/services/json/sectionfronts/briefing/index.jsonp" property="article:collection"/>
+<meta content="https://static01.nyt.com/services/json/sectionfronts/briefing/index.jsonp" name="sectionfront_jsonp"/>
+<meta content="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" property="og:url"/>
+<meta content="article" property="og:type"/>
+<meta content="New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing" property="og:title"/>
+<meta content="Here’s what you need to know about the week’s top stories." property="og:description"/>
+<meta content="2017-12-31T06:00:29-05:00" itemprop="datePublished" property="article:published"/>
+<meta content="2017-12-31T08:00:54-05:00" itemprop="dateModified" property="article:modified"/>
+<meta content="Briefing" itemprop="articleSection" property="article:section"/>
+<meta content="" itemprop="articleSection" property="article:section-taxonomy-id"/>
+<meta content="https://www.nytimes.com/" property="article:section_url"/>
+<meta content="briefing" property="article:top-level-section"/>
+<meta content="9869919170" property="fb:app_id"/>
+<meta name="twitter:site" value="@nytimes"/>
+<meta content="https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" property="twitter:url"/>
+<meta content="New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing" property="twitter:title"/>
+<meta content="Here’s what you need to know about the week’s top stories." property="twitter:description"/>
+<meta content="Louis Lucero II and Lance Booth" name="author"/>
+<meta content="news" id="article-tone" name="tone"/>
+<meta content="By LOUIS LUCERO II and LANCE BOOTH" name="byl"/>
+<meta content="article" name="PT"/>
+<meta content="briefing" name="CG"/>
+<meta content="" name="SCG"/>
+<meta content="briefing" name="PST"/>
+<meta content="briefing" name="tom"/>
+<meta content="The New York Times on the Web" name="edt"/>
+<meta content="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-promo/31weekend-briefing-slide-SBL0-facebookJumbo.jpg" property="og:image"/>
+<meta content="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-promo/31weekend-briefing-slide-SBL0-videoSixteenByNineJumbo1600.jpg" property="twitter:image"/>
+<meta name="twitter:card" value="summary_large_image"/>
+<meta content="https://www.nytimes.com/by/lance-booth" property="article:author"/>
+<meta content="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-promo/31weekend-briefing-slide-SBL0-thumbLarge.jpg" name="thumbnail_150"/>
+<meta content="150" name="thumbnail_150_height"/>
+<meta content="150" name="thumbnail_150_width"/>
+<meta content="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-promo/31weekend-briefing-slide-SBL0-thumbStandard.jpg" itemprop="thumbnailUrl" name="thumbnail"/>
+<meta content="75" name="thumbnail_height"/>
+<meta content="75" name="thumbnail_width"/>
+<meta content="Weekend Briefing" name="nyt-collection:display-name"/>
+<meta content="us-weekend-briefing" name="nyt-collection:identifier"/>
+<meta content="https://www.nytimes.com/series/us-weekend-briefing" name="nyt-collection:url"/>
+<meta content="/series/us-weekend-briefing" name="nyt-collection:uri"/>
+<meta content="news" name="nyt-collection:tone"/>
+<meta content="Here’s what you need to know about the week’s top stories. See all Morning, Weekend and Evening briefings together." name="nyt-collection:tagline"/>
+<meta content="series" name="nyt-collection:type"/>
+<meta content="us-weekend-briefing" name="CN"/>
+<meta content="series" name="CT"/>
+<meta content="dailybriefing" name="dfp-ad-unit-path"/>
+<meta content="false" name="dfp-amazon-enabled"/>
+<link href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/svc/oembed/json/?url=https%3A%2F%2Fwww.nytimes.com%2F2017%2F12%2F31%2Fbriefing%2Fnew-years-eve-iran-donald-trump.html" rel="alternate" title="New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing" type="application/json+oembed"/>
+<meta content="5281959998" property="fb:pages"/>
+<meta content="1002391179791389" property="fb:pages"/>
+<meta content="105307012882667" property="fb:pages"/>
+<meta content="123334484346296" property="fb:pages"/>
+<meta content="142271415829971" property="fb:pages"/>
+<meta content="1453472561556218" property="fb:pages"/>
+<meta content="153491058028703" property="fb:pages"/>
+<meta content="1545690368981813" property="fb:pages"/>
+<meta content="1606969219532748" property="fb:pages"/>
+<meta content="173455642668373" property="fb:pages"/>
+<meta content="176999952314969" property="fb:pages"/>
+<meta content="181548405298864" property="fb:pages"/>
+<meta content="340711315527" property="fb:pages"/>
+<meta content="5518834980" property="fb:pages"/>
+<meta content="689907071131476" property="fb:pages"/>
+<meta content="751965821517958" property="fb:pages"/>
+<meta content="8254939527" property="fb:pages"/>
+<meta content="98934992430" property="fb:pages"/>
+<meta content="993603507345855" property="fb:pages"/>
+<link href="http://web.archive.org/web/20171231184744cs_/https://typeface.nyt.com/css/zam5nzz.css" id="legacy-zam5nzz" media="all" rel="stylesheet" type="text/css"/>
+<!--[if (gt IE 9)|!(IE)]> <!-->
+<link href="http://web.archive.org/web/20171231184744cs_/https://g1.nyt.com/assets/article/20171220-185702/css/article/story/styles.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
+<!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="https://g1.nyt.com/assets/article/20171220-185702/css/article/story/styles-ie.css" />
+    <![endif]-->
+<link href="http://web.archive.org/web/20171231184744cs_/https://g1.nyt.com/assets/article/20171220-185702/css/article/story/styles-print.css" media="print" rel="stylesheet" type="text/css"/>
+<!--  begin abra  -->
+<script>
+var NYTD=NYTD||{};NYTD.Abra=function(t){"use strict";function n(t){var n=i[t];return n&&n[1]||null}function e(t,n){if(t){var e,o,r=n[0],i=n[1],u=0,c=0;if(1!==i.length||4294967296!==i[0])for(e=a(t+" "+r)>>>0,u=0,c=0;o=i[u++];)if(e<(c+=o[0]))return o}}function o(n,e,o,a){s+="subject="+n+"&test="+encodeURIComponent(e)+"&variant="+encodeURIComponent(o||0)+"&url="+encodeURIComponent(t.location.href)+"&instant=1&skipAugment=true\n",a&&f.push(a),c||(c=t.setTimeout(r,0))}function r(){var n=new t.XMLHttpRequest,e=f;n.withCredentials=!0,n.open("POST",u),n.onreadystatechange=function(){var t,o;if(4==n.readyState)for(t=200==n.status?null:new Error(n.statusText);o=e.shift();)o(t)},n.send(s),s="",f=[],c=null}function a(t){for(var n,e,o,r,a,i,u,c=0,s=0,f=[],l=[n=1732584193,e=4023233417,~n,~e,3285377520],h=[],p=t.length;s<=p;)h[s>>2]|=(s<p?t.charCodeAt(s):128)<<8*(3-s++%4);for(h[u=p+8>>2|15]=p<<3;c<=u;c+=16){for(n=l,s=0;s<80;n=[0|[(i=((t=n[0])<<5|t>>>27)+n[4]+(f[s]=s<16?~~h[c+s]:i<<1|i>>>31)+1518500249)+((e=n[1])&(o=n[2])|~e&(r=n[3])),a=i+(e^o^r)+341275144,i+(e&o|e&r|o&r)+882459459,a+1535694389][0|s++/20],t,e<<30|e>>>2,o,r])i=f[s-3]^f[s-8]^f[s-14]^f[s-16];for(s=5;s;)l[--s]=l[s]+n[s]|0}return l[0]}var i,u,c,s="",f=[];return n.init=function(n,r){var a,c,s,f,l,h=[],p=(t.document.cookie.match(/(^|;) *nyt-a=([^;]*)/)||[])[2],d=(t.document.cookie.match(/(^|;) *ab7=([^;]*)/)||[])[2],m=new RegExp("[?&]abra(=([^&#]*))"),g=m.exec(t.location.search);if(g&&g[2]&&(d=d?g[2]+"&"+d:g[2]),i)throw new Error("can't init twice");if(u=r,i={},d)for(d=decodeURIComponent(d).split("&"),a=0;a<d.length;a++)l=d[a].split("="),l[0]in i||(i[l[0]]=[,l[1],1],o("ab-alloc",l[0],l[1]),l[1]&&h.push(l[0]+"="+l[1]));for(a=0;a<n.length;a++)s=n[a],(c=s[0])in i||(f=e(p,s)||[],i[c]=f,f[1]&&h.push(c.replace(/[^\w-]/g)+"="+(""+f[1]).replace(/[^\w-]/g)),f[2]&&o("ab-alloc",c,f[1]));h.length&&t.document.documentElement.setAttribute("data-nyt-ab",h.join(" "))},n.reportExposure=function(n,e){var r=i[n];r&&r[2]?o("ab-expose",n,r[1],e):e&&t.setTimeout(function(){e(null)},0)},n}(this);
+</script>
+<script>NYTD.Abra.init([["www-story-reader-satisfaction",[[21474837,"Control",1],[21474836,"VariantA",1],[4252017623,null,0]]],["www-signup-favor-test",[[2147483648,"0",1],[2147483648,"1",1]]],["www-fixed-nav-subscribe-test",[[4294967296,"1",1]]],["www-ad-diagnostic",[[21474837,"1",0],[4273492459,null,0]]],["www-fabrik-off",[[4294967296,"1",1]]],["www-auto-newsletter",[[4294967296,"1",1]]],["www-STORY_3bundlePayflow-v3",[[4294967296,"1",1]]],["www-STRIK-nl-regi",[[1434519077,"control",1],[1430224110,"1",1],[1430224109,"2",1],[0,null,0]]],["www-indexAsHeaderBidder",[[4294967296,"2",1]]],["EC_SampleTest",[[2147483648,"variantA",0],[2147483648,"variantB",0]]],["EC_DigiAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_HdAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_CrosswordsUpsellTest",[[2147483648,"control",1],[2147483648,"upsell",1]]]], '//web.archive.org/web/20171231184744/https://et.nytimes.com/')</script>
+<!--  end abra  -->
+<script>
+/* ABRA reporting for Vi rollout. Please don't hand-edit this minified snippet. <https://github.com/nytm/vi-rollout-abra-reporting-js> (67c2140 @ Mon Dec 11 17:51:59 EST 2017) */ function reportViRolloutToABRA(t,e,o){"use strict";var i,a,n,r,s="";if(e&&(/^mobile\./.test(window.location.hostname)?(i=(document.cookie.match(/(?:^|;) *vi=([^;]*)/)||[,""])[1],a=(document.cookie.match(/(?:^|;) *nyt\.np\.vi=([^;]*)/)||[,""])[1],n=/^b1/.test(i)?"WP_ProjectVi&variant=vi":/^z1/.test(i)?"WP_ProjectVi&variant=0":/^a2/.test(i)?"WP_ProjectVi2&variant=hp-st":/^b2/.test(i)?"WP_ProjectVi2&variant=hp":/^c2/.test(i)?"WP_ProjectVi2&variant=st":/^z2/.test(i)?"WP_ProjectVi2&variant=0":/^1\|/.test(a)?"WP_ProjectVi&variant=vi":/^2\|/.test(a)?"WP_ProjectVi&variant=0":null):/^www\./.test(window.location.hostname)&&(i=(document.cookie.match(/(?:^|;) *vi_www_hp=([^;]*)/)||[,""])[1],n=/^a2/.test(i)?"WP_ProjectVi_www_hp&variant=hp-st":/^b2/.test(i)?"WP_ProjectVi_www_hp&variant=hp":/^c2/.test(i)?"WP_ProjectVi_www_hp&variant=st":/^d2/.test(i)?"WP_ProjectVi_www_hp&variant=hp-2":/^y2/.test(i)?"WP_ProjectVi_www_hp&variant=0-2":/^z2/.test(i)?"WP_ProjectVi_www_hp&variant=0":null),n&&(s+="subject=ab-alloc&test="+n+"&url="+encodeURIComponent(window.location.href)+"&instant=1&skipAugment=true\n")),o&&(/^mobile\./.test(window.location.hostname)?(i=(document.cookie.match(/(?:^|;) *vistorymobile=([^;]*)/)||[,""])[1],r=/^a/.test(i)?"WP_ProjectVi_Story_Mobile&variant=st":/^b/.test(i)?"WP_ProjectVi_Story_Mobile&variant=sth":/^c/.test(i)?"WP_ProjectVi_Story_Mobile&variant=mw":/^z/.test(i)?"WP_ProjectVi_Story_Mobile&variant=mwh":null):/^www\./.test(window.location.hostname)&&(i=(document.cookie.match(/(?:^|;) *vistory=([^;]*)/)||[,""])[1],r=/^a/.test(i)?"WP_ProjectVi_story_desktop&variant=sd":/^b/.test(i)?"WP_ProjectVi_story_desktop&variant=sdh":/^c/.test(i)?"WP_ProjectVi_story_desktop&variant=nyt5":/^z/.test(i)?"WP_ProjectVi_story_desktop&variant=nyt5h":null),r&&(s+="subject=ab-alloc&test="+r+"&url="+encodeURIComponent(window.location.href)+"&instant=1&skipAugment=true\n")),s){var c=new XMLHttpRequest;c.withCredentials=!0,c.open("POST",t),c.send(s)}}
+</script>
+<script>
+  reportViRolloutToABRA(
+    '//web.archive.org/web/20171231184744/https://et.nytimes.com/',
+    false,
+    true  );
+</script>
+<script id="page-config-data" type="text/json">
+{"pageconfig":{"ledeMediaSize":"none","keywords":["article-medium","has-embedded-interactive"],"collections":{"series":["weekendbriefing"]}}}</script>
+<script id="display_overrides">
+            []    </script>
+<script type="text/javascript">
+        (function() {
+            var s = document.getElementsByTagName("script")[0];
+            var mediaDotNet = 'http://web.archive.org/web/20171231184744/https://contextual.media.net/bidexchange.js?cid=8CU2553YN&amp;https=1';
+            var indexBid = 'http://web.archive.org/web/20171231184744/https://js-sec.indexww.com/ht/p/183760-203795517182556.js';
+            var timeout = 300;
+
+            function loadScript(tagSrc) {
+                if (tagSrc.substr(0, 4) !== 'http') {
+                    var isSSL = 'https:' == document.location.protocol;
+                    tagSrc = (isSSL ? 'https:' : '') + tagSrc;
+                }
+                var scriptTag = document.createElement('script'),
+                    placeTag = document.getElementsByTagName("script")[0];
+                scriptTag.type = 'text/javascript';
+                scriptTag.async = true;
+                scriptTag.src = tagSrc;
+                s.parentNode.insertBefore(scriptTag, s);
+            }
+
+            function loadGPT() {
+                if (!window.advBidxc.isAdServerLoaded) {
+                    loadScript('//web.archive.org/web/20171231184744/https://www.googletagservices.com/tag/js/gpt.js');
+                    window.advBidxc.isAdServerLoaded = true;
+                }
+            }
+
+            window.advBidxc = window.advBidxc || {};
+            window.advBidxc.renderAd = function () {};
+            window.advBidxc.startTime = new Date().getTime();
+            window.advBidxc.customerId = "8CU2553YN"; //Media.net Customer ID
+            window.advBidxc.timeout = 300;
+            window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);
+
+            // append index
+            var a = document.createElement("script");
+            a.type = "text/javascript";
+            a.async = true;
+            a.src = indexBid;
+            s.parentNode.insertBefore(a, s);
+
+            // append media.net
+            var b = document.createElement("script");
+            b.type = "text/javascript";
+            b.async = true;
+            b.src = mediaDotNet;
+            s.parentNode.insertBefore(b, s);
+        })();
+    </script>
+<!-- Amazon Bidder version 2 Initialization Script -->
+<script type="text/javascript">
+        //Load the ApsTag JavaScript Library
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//web.archive.org/web/20171231184744/https://c.amazon-adsystem.com/aax2/apstag.js");
+
+        apstag.init({
+            pubID: '3030',
+            adServer: 'googletag'
+        });
+    </script>
+<script id="trending-link-json" type="text/json">
+</script>
+<!--esi
+<script id="user-info-data" type="application/json">
+<esi:include src="/svc/web-products/userinfo-v3.json" />
+</script>
+-->
+<script id="magnum-feature-flags" type="application/json">["limitFabrikSave","moreFollowSuggestions","unfollowComments","scoopTool","videoVHSCover","videoVHSShareTools","videoVHSLive","videoVHSNewControls","videoVHSEmbeddedOnly","allTheEmphases","freeTrial","dedupeWhatsNext","trendingPageLinks","sprinklePaidPost","headerBidder","standardizeWhatsNextCollection","onlyLayoutA","simple","simpleExtendedByline","collectionsWhatsNext","mobileMediaViewer","podcastInLede","MovieTickets","MoreInSubsectionFix","seriesIssueMarginalia","serverSideCollectionUrls","multipleBylines","fabrikWebsocketsOnly","translationLinks","papihttps","verticalFullBleed","updateRestaurantReservations","mapDining","newsletterInlineModule","PersonalizationApiUpdate","apsTagEnabled","removeInternationalEdition","headlineBalancer","clientSideABRA","newsletterTitleTracking","surveyInterstitial","removeFBMessengerPromo","removeMarginaliaAbTest","paidpostSprinklingFix","abraOverrideVersion","headlineBalancerEverywhere","signupFavor","lazyloadOakImages","mapleFreeTrial","adQuerySupportForMultipleUserAddedKeywords","removeSectionDependentAdLogicForJanuary","oakUpdateAdStride","autoPlaceNewsletter","piiBlockDFP","adExclusiveIERibbonCheck","FlexAdDoubleHeightTracking","didScroll","supportedByAdFullBleed","anchorsHttps","oakBylineMargin","TopFlexAdSiteWide","BundlePayFlow","loadArticleOptimizely","oakStyleTouchups","oakBasicHeader","serveOakOnVI","opinionHeadline","indexAsHeaderBidder","newsletterRegiTest","bookReviewBuyButton","caslOpt","sectionBasedAmp","abraInCustomParams","jkiddScript","blueKai","showNewDealbookLogo","commentsUserDataUpdateDisabled"]</script>
+<script>
+var require = {
+    baseUrl: 'http://web.archive.org/web/20171231184744/https://g1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20171220-185702/js/foundation',
+        'shared': 'article/20171220-185702/js/shared',
+        'article': 'article/20171220-185702/js/article',
+        'application': 'article/20171220-185702/js/article/story',
+        'videoFactory': 'http://web.archive.org/web/20171231184744/https://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'http://web.archive.org/web/20171231184744/https://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'http://web.archive.org/web/20171231184744/https://static01.nyt.com/js/mtr',
+        'auth/growl': 'http://web.archive.org/web/20171231184744/https://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'http://web.archive.org/web/20171231184744/https://static01.nyt.com/video/vhs/build/vhs-2.x.min',
+        'vhs3': 'http://web.archive.org/web/20171231184744/https://static01.nyt.com/video-static/vhs3/vhs.min'
+    },
+    map: {
+        '*': {
+            'story/main': 'article/story/main'
+        }
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="http://web.archive.org/web/20171231184744js_/https://g1.nyt.com/assets/article/20171220-185702/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+    require.map['*']['foundation/main'] = 'foundation/legacy_main';
+</script>
+<script data-main="foundation/legacy_main" src="https://g1.nyt.com/assets/article/20171220-185702/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+    require(['foundation/main'], function () {
+        require(['auth/mtr', 'auth/growl']);
+    });
+    </script>
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script charset="utf-8" src="/static/js/timestamp.js?v=1533593143.0" type="text/javascript"></script>
+<script charset="utf-8" src="/static/js/graph-calc.js?v=1533593143.0" type="text/javascript"></script>
+<script charset="utf-8" src="/static/js/auto-complete.js?v=1533593143.0" type="text/javascript"></script>
+<script charset="utf-8" src="/static/js/toolbar.js?v=1533593143.0" type="text/javascript"></script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+<div style="position:relative;">
+<div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+<a href="/web/" title="Wayback Machine home page"><img alt="Wayback Machine" border="0" height="39" src="/static/images/toolbar/wayback-toolbar-logo.png" width="110"/></a>
+</div>
+<div class="r" style="float:right;">
+<div id="wm-btns" style="text-align:right;height:25px;">
+<div id="wm-save-snapshot-success">success</div>
+<div id="wm-save-snapshot-fail">fail</div>
+<a href="#" id="wm-save-snapshot-open" onclick="__wm.saveSnapshot('https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html', '20171231184744')" title="Share via My Web Archive">
+<span class="iconochive-web"></span>
+</a>
+<a href="https://archive.org/account/login.php" id="wm-sign-in" title="Sign In">
+<span class="iconochive-person"></span>
+</a>
+<span class="iconochive-web" id="wm-save-snapshot-in-progress"></span>
+<a href="http://faq.web.archive.org/" style="top:-6px;" title="Get some help using the Wayback Machine"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+<a href="#close" id="wm-tb-close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+</div>
+<div id="wm-share" style="text-align:right;">
+<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html', '', 'height=400,width=600'); return false;" style="margin-right:5px;" target="_blank" title="Share on Facebook"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html&amp;via=internetarchive', '', 'height=400,width=600'); return false;" style="margin-right:5px;" target="_blank" title="Share on Twitter"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+</div>
+</div>
+<table class="c" style="">
+<tbody>
+<tr>
+<td class="u" colspan="2">
+<form action="/web/submit" id="wmtb" method="get" name="wmtb" target="_top"><input id="wmtbURL" name="url" onfocus="this.focus();this.select();" type="text" value="https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html"/><input name="type" type="hidden" value="replay"/><input name="date" type="hidden" value="20171231184744"/><input type="submit" value="Go"/></form>
+</td>
+<td class="n" rowspan="2" style="width:110px;">
+<table>
+<tbody>
+<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+<tr class="m">
+<td class="b" nowrap="nowrap">Nov</td>
+<td class="c" id="displayMonthEl" title="You are here: 18:47:44 Dec 31, 2017">DEC</td>
+<td class="f" nowrap="nowrap">Jan</td>
+</tr>
+<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+<tr class="d">
+<td class="b" nowrap="nowrap"><img alt="Previous capture" border="0" height="16" src="/static/images/toolbar/wm_tb_prv_off.png" width="14"/></td>
+<td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 18:47:44 Dec 31, 2017">31</td>
+<td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20180107153731/http://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" title="15:37:31 Jan 07, 2018"><img alt="Next capture" border="0" height="16" src="/static/images/toolbar/wm_tb_nxt_on.png" width="14"/></a></td>
+</tr>
+<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+<tr class="y">
+<td class="b" nowrap="nowrap">2016</td>
+<td class="c" id="displayYearEl" title="You are here: 18:47:44 Dec 31, 2017">2017</td>
+<td class="f" nowrap="nowrap">2018</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="s">
+<div id="wm-nav-captures">
+<a class="t" href="/web/20171231184744*/https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" title="See a list of every capture for this URL">6 captures</a>
+<div class="r" title="Timespan for captures of this URL">31 Dec 2017 - 07 Jan 2018</div>
+</div>
+</td>
+<td class="k">
+<a href="" id="wm-graph-anchor">
+<div id="wm-ipp-sparkline" style="position: relative" title="Explore captures for this URL">
+<canvas border="0" height="27" id="wm-sparkline-canvas" width="575"></canvas>
+</div>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="position:absolute;bottom:0;right:2px;text-align:right;">
+<a class="wm-btn wm-closed" href="#expand" id="wm-expand" onclick="__wm.ex(event);return false;"><span class="iconochive-down-solid" id="wm-expand-icon"></span> <span style="font-size:80%">About this capture</span></a>
+</div>
+</div>
+<div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+<div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+<div id="wm-collected-by-content" style="padding:3px;position:relative">
+<div style="display:inline-block;vertical-align:top;width:50%;">
+<span class="c-logo" style="background-image:url(https://archive.org/services/img/focused_crawls);"></span>
+		Organization: <a href="https://archive.org/details/focused_crawls" style="color:#33f;" target="_new"><span class="wm-title">Internet Archive</span></a>
+<div style="max-height:75px;overflow:hidden;position:relative;">
+<div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Focused crawls are collections of frequently-updated webcrawl data from narrow (as opposed to broad or wide) web crawls, often focused on a single domain or subdomain.<br/>
+</div>
+</div>
+<div style="display:inline-block;vertical-align:top;width:49%;">
+<span class="c-logo" style="background-image:url(https://archive.org/services/img/global.nytimes.com)"></span>
+<div>Collection: <a href="https://archive.org/details/global.nytimes.com" style="color:#33f;" target="_new"><span class="wm-title">global.nytimes.com</span></a></div>
+</div>
+</div>
+<div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+<div>
+<div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+<div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img alt="loading" src="/static/images/loading.gif"/></div>
+</div>
+</div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html","2017-12-31",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<style>
+    .lt-ie10 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie10 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie10 .messenger.suggestions .alert-icon {
+        background: url('http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie10 .masthead,
+    .lt-ie10 .navigation,
+    .lt-ie10 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie10 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div class="suggestions messenger nocontent robots-nocontent" id="suggestions" style="display:none;">
+<div class="message-bed">
+<div class="message-container last-message-container">
+<div class="message">
+<span class="message-content">
+<i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.</span>
+<a class="action-link" href="http://web.archive.org/web/20171231184744/http://www.nytimes.com/content/help/site/ie9-support.html">LEARN MORE »</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="shell" id="shell">
+<header class="masthead masthead-theme-standard" id="masthead" role="banner">
+<div class="container">
+<div class="quick-navigation button-group">
+<button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+<button class="button home-button" data-href="https://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+<span class="button-text">Home</span>
+</button>
+<button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+<a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a>
+<a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+<a class="button skip-button skip-to-mobile visually-hidden focusable" href="http://web.archive.org/web/20171231184744/http://mobile.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html">View mobile version</a>
+</div><!-- close button-group -->
+<div class="branding">
+<h2 class="branding-heading">
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/" id="branding-heading-link">
+<span class="visually-hidden">The New York Times</span>
+</a>
+</h2>
+<script>window.magnum.writeLogo('small', 'http://web.archive.org/web/20171231184744/https://g1.nyt.com/assets/article/20171220-185702/images/foundation/logos/', 'briefing', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'article');</script>
+</div><!-- close branding -->
+<div class="story-meta">
+<h6 class="kicker"><span class="kicker-label"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/">Briefing</a></span><span class="pipe">|</span>New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing</h6>
+</div><!-- close story-meta -->
+<div class="user-tools">
+<div class="ad bar1-ad nocontent robots-nocontent" id="Bar1"></div>
+<div class="hidden" id="liftoff-nyt5-bar1"></div>
+<div aria-label="tools" class="sharetools theme-classic sharetools-masthead " data-author="By LOUIS LUCERO II and LANCE BOOTH" data-description="Here’s what you need to know about the week’s top stories." data-media="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-promo/31weekend-briefing-slide-promo-jumbo.jpg" data-publish-date="December 31, 2017" data-shares="facebook,twitter,email,show-all,save" data-title="New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing" data-url="http://web.archive.org/web/20171231184744oe_/https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" id="sharetools-masthead" role="group">
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+</div>
+</div><!-- close shareTools -->
+<button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+<div class="user-tools-button-group button-group">
+<button class="button subscribe-button hidden" data-href="https://www.nytimes.com/subscriptions/Multiproduct/lp3004.html?campaignId=4XUYF">Subscribe Now</button>
+<button class="button login-button login-modal-trigger hidden">Log In</button>
+<button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+<button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+</div><!-- close user-tools-button-group -->
+</div><!-- close user-tools -->
+</div><!-- close container -->
+<div class="search-flyout-panel flyout-panel">
+<button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+<nav class="search-form-control form-control layout-horizontal">
+<h2 class="visually-hidden">Site Search Navigation</h2>
+<form class="search-form" role="search">
+<div class="control">
+<div class="label-container visually-hidden">
+<label for="search-input">Search NYTimes.com</label>
+</div>
+<div class="field-container">
+<input autocomplete="off" class="search-input text" id="search-input" name="search-input" placeholder="Search NYTimes.com" type="text"/>
+<button aria-describedby="clear-search-input" class="button clear-button" tabindex="-1" type="button"><i class="icon"></i><span class="visually-hidden" id="clear-search-input">Clear this text input</span></button>
+<div class="auto-suggest" style="display: none;">
+<ol></ol>
+</div>
+<button class="button submit-button" type="submit">Go</button>
+</div>
+</div><!-- close control -->
+</form>
+</nav>
+</div><!-- close flyout-panel -->
+<div class="notification-modals" id="notification-modals"></div>
+<span class="story-short-url"><a href="http://web.archive.org/web/20171231184744/https://nyti.ms/2EnAcr4">https://nyti.ms/2EnAcr4</a></span></header>
+<nav aria-hidden="true" class="ribbon ribbon-start nocontent robots-nocontent" id="ribbon">
+<div class="nocontent robots-nocontent">
+<ol class="ribbon-menu">
+<li class="collection ribbon-loader">
+<div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+</li>
+</ol>
+<div class="ribbon-navigation-container">
+<nav class="ribbon-navigation next">
+<span class="visually-hidden">See next articles</span>
+<div class="arrow arrow-right">
+<div class="arrow-conceal"></div>
+</div>
+</nav>
+<nav class="ribbon-navigation previous">
+<span class="visually-hidden">See previous articles</span>
+<div class="arrow arrow-left">
+<div class="arrow-conceal"></div>
+</div>
+</nav>
+</div>
+</div><!-- close nocontent -->
+</nav>
+<script type="text/javascript">
+(function () {
+    var ribbon;
+    if (window.magnum.getFlags().indexOf('adAggro') !== -1 &&
+        (window.NYTD.Abra('www-story-pro-agro') !== 'control' &&
+        window.NYTD.Abra('www-story-pro-agro') !== null &&
+        window.NYTD.Abra('www-story-pro-agro') !== 'null' &&
+        window.NYTD.Abra('www-story-pro-agro') !== '')) {
+        ribbon = document.querySelector('#ribbon');
+        if (ribbon && ribbon.parentNode) {
+            ribbon.parentNode.removeChild(ribbon);
+        }
+    }
+})();
+</script>
+<nav class="navigation" id="navigation">
+<h2 class="visually-hidden">Site Navigation</h2>
+</nav><!-- close navigation -->
+<nav class="mobile-navigation hidden" id="mobile-navigation">
+<h2 class="visually-hidden">Site Mobile Navigation</h2>
+</nav><!-- close mobile-navigation -->
+<div class="navigation-edge" id="navigation-edge"></div>
+<div class="page" id="page">
+<div class="ad top-ad nocontent robots-nocontent" id="TopAd">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+</div>
+<main class="main" id="main" role="main">
+<article class="story theme-main " id="story">
+<div class="ad tragedy-ad nocontent robots-nocontent" id="TragedyAd"></div>
+<header class="story-header" id="story-header">
+<div class="story-meta " id="story-meta">
+<div class="supported-by hidden nocontent robots-nocontent">
+<span class="ad-label">Supported by</span>
+<div class="supported-by-ad ad" id="supported-by-ad"></div>
+</div>
+<h3 class="kicker" id="kicker" role="kicker">
+<span class="kicker-label"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/">Briefing</a></span>
+</h3>
+<h1 class="headline" id="headline" itemprop="headline">New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing</h1>
+<div class="story-meta-footer" id="story-meta-footer">
+<p class="byline-dateline"><span class="byline" itemprop="author creator" itemscope="" itemtype="http://schema.org/Person">By <span class="byline-author" data-byline-name="LOUIS LUCERO II" itemprop="name">LOUIS LUCERO II</span> and </span><span class="byline" itemid="https://www.nytimes.com/by/lance-booth" itemprop="author creator" itemscope="" itemtype="http://schema.org/Person"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/by/lance-booth" title="More Articles by LANCE BOOTH"><span class="byline-author" data-byline-name="LANCE BOOTH" itemprop="name">LANCE BOOTH</span></a></span><time class="dateline" content="2017-12-31T08:00:54-05:00" datetime="2017-12-31T08:00:54-05:00" itemprop="dateModified">DEC. 31, 2017</time>
+</p>
+<div class="story-meta-footer-sharetools">
+<div aria-label="tools" class="sharetools theme-classic sharetools-story-meta-footer " data-author="By LOUIS LUCERO II and LANCE BOOTH" data-description="Here’s what you need to know about the week’s top stories." data-media="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-promo/31weekend-briefing-slide-promo-jumbo.jpg" data-publish-date="December 31, 2017" data-shares="facebook,twitter,email,show-all,save" data-title="New Year’s Eve, Iran, Donald Trump: Your Weekend Briefing" data-url="http://web.archive.org/web/20171231184744oe_/https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" id="sharetools-story-meta-footer" role="group">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+<span class="sharetools-label visually-hidden">Share This Page</span>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+</div><!-- close shareTools -->
+</div>
+</div><!-- close story-meta-footer -->
+</div><!-- close story-meta -->
+</header>
+<script type="text/javascript">
+        if (
+            window.magnum
+            && window.magnum.getFlags().indexOf('headlineBalancer') > 0
+            && window.magnum.headlineBalancer
+            && window.magnum.headlineBalancer.initialize
+            && window.magnum.headlineBalancer.shouldRun()
+        ) {
+            window.magnum.headlineBalancer.initialize();
+        }
+    </script>
+<div class="story-body-supplemental">
+<div class="story-body story-body-1">
+<p class="story-body-text story-content" data-para-count="52" data-total-count="52"><em>Here are the week’s top stories, and a look ahead.</em></p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632225 ratio-tall" data-media-action="modal" id="media-100000005632225" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SBL0/31weekend-briefing-slide-SBL0-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="Seth Wenig/Associated Press" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SBL0/31weekend-briefing-slide-SBL0-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SBL0/31weekend-briefing-slide-SBL0-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SBL0/31weekend-briefing-slide-SBL0-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            Seth Wenig/Associated Press        </span>
+</figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="60" data-total-count="112"><strong>1. The last day</strong> of 2017 has arrived. Happy New Year’s Eve!</p><p class="story-body-text story-content" data-para-count="149" data-total-count="261">Some U.S. cities have scrapped outdoor celebrations <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/28/us/winter-weather-erie-cold.html">because of the extreme cold</a>. But in New York City, the ball will drop in Times Square as planned.</p><p class="story-body-text story-content" data-para-count="165" data-total-count="426">Ahead of tonight’s reveling, <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/world/europe/uk-nhs-alcohol.html">Britons were warned</a> by the chief of the National Health Service that “N.H.S. doesn’t stand for ‘National Hangover Service.’”</p><p class="story-body-text story-content" data-para-count="128" data-total-count="554">And one of our most read articles this weekend? It’s an opinion article titled “<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/opinion/sunday/alcohol-binge-drinking.html">America, Can We Talk About Your Drinking?</a>”</p><figure class="interactive interactive-embedded limit-small layout-flex-medium" id="morning-briefing-weather-module">
+<figcaption class="interactive-caption">
+</figcaption>
+<div class="interactive-graphic">
+<!--
+
+======================================================
+
+THIS IS A GENERATED TEMPLATE FILE. DO NOT EDIT.
+
+======================================================
+
+-->
+<style>.page-interactive-embedded{margin:0 8px}.page-interactive-mobile .story.theme-main,.page-interactive-app .story.theme-main,.page-interactive-embedded .story.theme-main{margin-top:0}.nyt-weather{font-family:'nyt-franklin', Helvetica, sans-serif;font-size:11px;line-height:1.4;min-height:110px;padding-top:16px;color:#333;position:relative}.mobile .nyt-weather a:hover{text-decoration:none}.viewport-medium .nyt-weather{min-height:80px;font-size:12px}.nyt-weather[data-status="loading"]{position:relative}.nyt-weather[data-status="loading"]:after{content:'';display:block;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);height:32px;width:32px;background-repeat:no-repeat;background-image:url(data:image/gif;base64,R0lGODlhIAAgAMQAAP///+zt6/7+/vHy8PDw7/j4+Pr7+v39/e3u7Pb29fLz8fT19PP08+7v7vb39vv8++7u7fT08/X29Pn5+ff39u/w7vz8/Pr6+fz8+/Lz8vj49/z9/P39/P7+/f7//vDx8CH/C05FVFNDQVBFMi4wAwEAAAAh/wtYTVAgRGF0YVhNUDw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ1dWlkOjFEMjM1OEQ1OEU2OURGMTE5RkI4QTQ4OURBRjgwMkZGIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjUxNDlFQjM1MjMyOTExRTNBOEU5ODQ3NjI0QTBCRjFEIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjUxNDlFQjM0MjMyOTExRTNBOEU5ODQ3NjI0QTBCRjFEIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzUgTWFjaW50b3NoIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RkM3RjExNzQwNzIwNjgxMTg3MUZFRkRGODdG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)}.nyt-weather .w-link{font-weight:400;display:inline-block}.nyt-weather .w-location{margin-bottom:6px}.nyt-weather .w-location .w-link{display:inline-block}.nyt-weather .w-location .w-link.disabled,.nyt-weather .w-location .w-link.disabled:hover{text-decoration:none;pointer-events:none;color:#999}.nyt-weather .w-location .w-current{text-transform:uppercase}.nyt-weather .w-location .w-city{color:inherit;margin-right:20px}.nyt-weather .w-description{font-size:14px;margin-bottom:6px;color:#333}.viewport-medium .nyt-weather .w-description{font-size:16px}.nyt-weather .w-icon{vertical-align:middle;margin-right:5px;height:35px}.nyt-weather .w-temp{font-size:34px;line-height:1;font-weight:100;margin-right:8px;display:inline-block;vertical-align:middle;color:#333}.nyt-weather .w-high{font-size:18px;line-height:1;font-weight:100;display:inline-block;-webkit-transform:translateY(-1px);transform:translateY(-1px)}.nyt-weather .w-low{font-size:18px;line-height:1;font-weight:100;display:inline-block;-webkit-transform:translateY(-1px);transform:translateY(-1px);color:#777}.nyt-weather .w-tomorrow{border-top:1px dotted #DDD;margin-top:12px;padding-top:16px;text-transform:uppercase}.nyt-weather .w-tomorrow span,.nyt-weather .w-tomorrow a{vertical-align:baseline}.nyt-weather .w-tomorrow .w-icon{height:20px;margin-left:5px;vertical-align:middle}.nyt-weather .w-tomorrow .w-high,.nyt-weather .w-tomorrow .w-low{font-weight:400;margin:0;font-size:14px;-webkit-transform:none;transform:none}.nyt-weather .w-tomorrow .w-link{margin-left:10px;float:right;text-transform:none}.viewport-medium .nyt-weather .w-tomorrow{display:inline-block;width:60%;text-align:right;border-top:none;padding-top:0;margin-top:0;position:absolute;bottom:0;right:0}.viewport-medium .nyt-weather .w-tomorrow .w-high,.viewport-medium .nyt-weather .w-tomorrow .w-low{font-size:15px}
+</style>
+<style>
+#morning-briefing-weather-module.interactive-embedded {
+  min-width: 0;
+  max-width: 500px;
+  margin-top: 4px;
+  padding: 0px;
+}
+#morning-briefing-weather-module.interactive-embedded .interactive-caption{
+  display: none;
+}
+</style>
+<div class="nyt-weather" data-preview-slug="2015-12-01-weather-module" data-status="loading" id="nyt-weather"></div>
+<script id="nyt-weather-tpl" type="text/template">
+  <div class="w-today">
+    <div class="w-location"><span class="w-current">Today in <span class="w-city">{{= loc }}</span></span><a class="w-link" data-action="geolocate" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/gst/weather.html?saction=updatePrimary">Update Location</a></div>
+    <div class="w-description">
+      <span class="w-phrase">{{= c_phrase }}</span>
+    </div>
+    <div class="w-container">
+      <img class="w-icon" src="{{= c_image }}" />
+      <span class="w-temp">{{= temp }}°{{= temp_unit }}</span>
+      <span class="w-high">{{= c_high }}°</span>
+      <span class="w-low">{{= c_low }}°</span>
+    </div>
+  </div>
+  <div class="w-tomorrow">
+    <span>Tomorrow: </span>
+    <img class="w-icon" src="{{= t_image }}" />
+    <span class="w-high">{{= t_high }}°</span>
+    <span class="w-low">{{= t_low }}°</span>
+    <a class="w-link" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/weather">View 5-Day Forecast</a>
+  </div>
+</script>
+<script>(function(){var e={storageName:"nyt:weather-storage",idkey:"locationId",namekey:"locationName",rootURL:"http://web.archive.org/web/20171231184744/https://content.api.nytimes.com/svc",locationURL:"/location/v1/current.json",geocodeURL:"/location/v1/latlng/{{lat}}:{{lon}}.json",forecastURL:"/weather/v2/current-and-seven-day-forecast/{{query}}.json",fcountries:["United States","Bahamas","Belize","Cayman Islands","Palau","Puerto Rico","U.S. Virgin Islands","Guam"],init:function(){this.nytstorage=localStorage&&localStorage.getItem(this.storageName)?JSON.parse(localStorage.getItem(this.storageName)):{},console.log(this.nytstorage,localStorage.getItem(this.storageName)),this.loadWeather()},setGeolocators:function(){if(!navigator.geolocation)return;this.geolocator=document.querySelector("a[data-action=geolocate]"),this.geolocator.addEventListener("click",this.onGeolocatorClick.bind(this))},saveKey:function(e,t){this.nytstorage[e]=t;if(localStorage)try{localStorage.setItem(this.storageName,JSON.stringify(this.nytstorage))}catch(n){Storage.prototype._setItem=Storage.prototype.setItem,Storage.prototype.setItem=function(){}}},loadWeather:function(){this.nytstorage[this.idkey]?(this.location=this.nytstorage[this.namekey],this.request(this.parseURL(this.rootURL+this.forecastURL,this.nytstorage[this.idkey]),this.onForecastReceived.bind(this),this.onError.bind(this))):this.request(this.parseURL(this.rootURL+this.locationURL),this.onLocationReceived.bind(this),this.onError.bind(this))},request:function(e,t,n,r){var i=new XMLHttpRequest;i.onreadystatechange=function(e){if(i.readyState===4)if(i.status===200){var n=JSON.parse(e.currentTarget.responseText);t(n,e)}else setTimeout(this.request,1e3)}.bind(this),i.open(r||"GET",encodeURI(e)),i.send(n)},parseURL:function(e,t){return t?e.replace("{{query}}",t):e.replace("/{{query}}","")},parseLocCode:function(e,t,n){return e?e+(t||"--")+(n||"--"):""},parseLocStr:function(e,t,n){return[e,n===this.fcountries[0]?t:n].join(", ")},parseFarenheit:function(e){return Math.round((parseInt(e)-32)/1.8)},render:function(e){var t=e.current[0],n=this.fcountries.indexOf(t.country)>-1,r={"01":"1","02":"1","03":"2","04":"3","05":"3","06":"4","07":"3","08":"3",11:"5",12:"6",13:"6",14:"6",15:"7",16:"7",17:"7",18:"6",19:"8",20:"8",21:"8",22:"8",23:"8",24:"9",25:"10",26:"6",29:"10",30:"11",31:"12",32:"13",33:"14",34:"14",35:"15",36:"3",37:"3",38:"4",39:"6",40:"6",41:"7",42:"7",43:"8",44:"8"};t.loc=this.location||this.parseLocStr(t.city,t.state,t.country),t.temp=n?t.temp:this.parseFarenheit(t.temp),t.temp_unit=n?"F":"C",t.c_high=n?e.seven_day_forecast[0].high:this.parseFarenheit(e.seven_day_forecast[0].high),t.c_low=n?e.seven_day_forecast[0].low:this.parseFarenheit(e.seven_day_forecast[0].low),t.c_phrase=e.seven_day_forecast[0].phrase,t.c_image="http://web.archive.org/web/20171231184744/https://static01.nyt.com/newsgraphics/2015/12/01/weather-module/assets/icons/"+r[e.current[0].icon]+".svg",t.t_image="http://web.archive.org/web/20171231184744/https://static01.nyt.com/newsgraphics/2015/12/01/weather-module/assets/icons/"+r[e.seven_day_forecast[1].icon]+".svg",t.t_high=n?e.seven_day_forecast[1].high:this.parseFarenheit(e.seven_day_forecast[1].high),t.t_low=n?e.seven_day_forecast[1].low:this.parseFarenheit(e.seven_day_forecast[1].low);var i=document.getElementById("nyt-weather-tpl"),s=document.getElementById("nyt-weather");s.innerHTML=i.innerHTML.replace(/{{=\s*(\w+)\s*}}/ig,function(e,n){return t[n]}),this.saveKey(this.idkey,t.location),this.saveKey(this.namekey,t.loc),this.setGeolocators(),s.setAttribute("data-status","ready")},onLocationReceived:function(e){e=e.results?e.results[0]:e,this.location=e.accuweather_location?this.parseLocStr(e.city,e.state,e.country):"";var t=e.accuweather_location||this.parseLocCode(e.city,e.state,e.country);this.request(this.parseURL(this.rootURL+this.forecastURL,t.toLowerCase()),this.onForecastReceived.bind(this),this.onError.bind(this))},onGeolocatorClick:function(e){return navigator.geolocation.getCurrentPosition(this.onGeolocationSuccess.bind(this),this.onGeolocationError.bind(this)),e.preventDefault(),!1},onGeolocationSuccess:function(e){this.request(this.rootURL+this.geocodeURL.replace("{{lat}}",e.coords.latitude).replace("{{lon}}",e.coords.longitude),this.onLocationReceived.bind(this),this.onError.bind(this))},onGeolocationError:function(e){this.geolocator.innerHTML="Geolocation Disabled",this.geolocator.className+=" disabled",this.onError(e)},onForecastReceived:function(e){this.render(e.results)},onError:function(e){console.log("[ERROR]",e)}};e.init()})(),define("script",function(){});</script>
+<!-- Pipeline: 2015-12-01-weather-module | July 25, 2017, 12:30PM | 3985c4151c4d201bf9f52206acd1c2d85ea88425 -->
+</div>
+<div class="footer">
+</div>
+</figure>
+<p class="story-body-text story-content" data-para-count="4" data-total-count="558">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632222 ratio-tall" data-media-action="modal" id="media-100000005632222" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-CWR5/31weekend-briefing-slide-CWR5-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="Tom Brenner/The New York Times" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-CWR5/31weekend-briefing-slide-CWR5-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-CWR5/31weekend-briefing-slide-CWR5-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-CWR5/31weekend-briefing-slide-CWR5-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            Tom Brenner/The New York Times        </span>
+</figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="137" data-total-count="695"><strong>2. As President Trump</strong> navigated his first year in the Oval Office, he seldom asked how other presidents handled various twists and turns.</p><div class="story-ad ad ad-placeholder nocontent robots-nocontent " id="story-ad-1">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="199" data-total-count="894" id="story-continues-1">Our chief White House correspondent <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/31/us/politics/trump-reinventing-presidency.html">examined the ways Mr. Trump has defied the conventions</a> established by his predecessors, and looked at which of his actions may have a lasting impact on the office.</p> <a class="visually-hidden skip-to-text-link" href="#story-continues-2">Continue reading the main story</a>
+</div><!-- close story-body -->
+<div class="supplemental first" id="supplemental-1">
+</div><!-- close supplemental -->
+</div><!-- close story-body-supplemental -->
+<div class="story-interrupter" id="story-continues-2">
+<div class="ad flex-ad nocontent robots-nocontent" id="FlexAd">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-3">Continue reading the main story</a>
+<div class="flex-ad-creative"></div>
+</div>
+</div>
+<div class="story-body-supplemental">
+<div class="story-body story-body-2">
+<p class="story-body-text story-content" data-para-count="169" data-total-count="1063" id="story-continues-3">Some of Mr. Trump’s most drastic breaks with precedent have come in the realm of foreign policy, where <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/28/us/politics/trump-world-diplomacy.html">traditional views hold very little sway with the administration</a>.</p><p class="story-body-text story-content" data-para-count="4" data-total-count="1067">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632223 ratio-tall" data-media-action="modal" id="media-100000005632223" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-Q8E5/31weekend-briefing-slide-Q8E5-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-Q8E5/31weekend-briefing-slide-Q8E5-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-Q8E5/31weekend-briefing-slide-Q8E5-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-Q8E5/31weekend-briefing-slide-Q8E5-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+</figure>
+<p class="story-body-text story-content" data-para-count="74" data-total-count="1141"><strong>3. A clearer picture</strong> of what set off the Russia inquiry has begun to form.</p><p class="story-body-text story-content" data-para-count="183" data-total-count="1324">While drinking in May 2016, George Papadopoulos, above, a foreign policy adviser for the Trump campaign, <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/30/us/politics/how-fbi-russia-investigation-began-george-papadopoulos.html">told</a><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/30/us/politics/how-fbi-russia-investigation-began-george-papadopoulos.html"> an Australian diplomat that Russia had political dirt on Hillary Clinton</a>.</p><p class="story-body-text story-content" data-para-count="73" data-total-count="1397">Australian officials are said to have passed that information to the U.S.</p><p class="story-body-text story-content" data-para-count="191" data-total-count="1588">In <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/28/us/politics/trump-interview-mueller-russia-china-north-korea.html">an impromptu 30-minute interview</a>, President Trump insisted 16 times that there had been “no collusion” with Russia. Our reporter <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/insider/mike-schmidt-interview-donald-trump.html">responded to criticism</a> of how he handled the interview.</p><p class="story-body-text story-content" data-para-count="4" data-total-count="1592">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632218 ratio-tall" data-media-action="modal" id="media-100000005632218" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-9B6X/31weekend-briefing-slide-9B6X-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="Karsten Moran for The New York Times" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-9B6X/31weekend-briefing-slide-9B6X-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-9B6X/31weekend-briefing-slide-9B6X-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-9B6X/31weekend-briefing-slide-9B6X-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            Karsten Moran for The New York Times        </span>
+</figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="154" data-total-count="1746"><strong>4. A fire</strong> that killed 12 people in the Bronx on Thursday left a soot-black scar on <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/30/nyregion/bronx-fire-children.html">the heart of Belmont</a>, the working-class neighborhood where it happened.</p><p class="story-body-text story-content" data-para-count="142" data-total-count="1888">It was the <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/nyregion/deadliest-bronx-fire-children-12-dead.html">deadliest fire in New York City</a> in more than a quarter-century. Officials said it was ignited by a 3-year-old playing with a stove.</p><p class="story-body-text story-content" data-para-count="151" data-total-count="2039">A soldier who was trying to rescue others, four members of a single family, and a grandmother and her 8-month-old granddaughter were among <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/nyregion/bronx-fire-victims-died-family.html">the victims</a>.</p><p class="story-body-text story-content" data-para-count="4" data-total-count="2043">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632224 ratio-tall" data-media-action="modal" id="media-100000005632224" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SB47/31weekend-briefing-slide-SB47-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="Ebrahim Noroozi/Associated Press" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SB47/31weekend-briefing-slide-SB47-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SB47/31weekend-briefing-slide-SB47-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-SB47/31weekend-briefing-slide-SB47-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            Ebrahim Noroozi/Associated Press        </span>
+</figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="125" data-total-count="2168"><strong>5. Two protesters </strong><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/31/world/middleeast/iran-protests.html">were reportedly killed in Iran</a> as demonstrations that began over economic issues spread across the country.</p><div class="story-ad ad ad-placeholder nocontent robots-nocontent " id="story-ad-2">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-4">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="113" data-total-count="2281" id="story-continues-4">The interior minister warned that protesters would “pay the price” for what he called their unlawful actions.</p><p class="story-body-text story-content" data-para-count="74" data-total-count="2355">About 4,000 people turned out for pro-government rallies in Tehran, above.</p><p class="story-body-text story-content" data-para-count="4" data-total-count="2359">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632227 ratio-tall" data-media-action="modal" id="media-100000005632227" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-C7SM/31weekend-briefing-slide-C7SM-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="Jeremie Souteyrat for The New York Times" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-C7SM/31weekend-briefing-slide-C7SM-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-C7SM/31weekend-briefing-slide-C7SM-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-C7SM/31weekend-briefing-slide-C7SM-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            Jeremie Souteyrat for The New York Times        </span>
+</figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="201" data-total-count="2560"><strong>6. As the U.S.</strong> reckons with an outpouring of sexual misconduct cases, <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/world/asia/japan-rape.html">the story of a former news intern in Tokyo</a> provides a stark example of how sexual assault remains a subject to be avoided in Japan.</p><p class="story-body-text story-content" data-para-count="123" data-total-count="2683">We spoke with Shiori Ito, above, who has published a book about her experience, and the journalist she has accused of rape.</p><p class="story-body-text story-content" data-para-count="196" data-total-count="2879">In the U.S., 615 men told us about their behavior in the workplace: About one-third said they had done something in the past year <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/interactive/2017/12/28/upshot/sexual-harassment-survey-600-men.html">that would qualify as objectionable behavior or sexual harassment</a>.</p><p class="story-body-text story-content" data-para-count="4" data-total-count="2883">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632214 ratio-tall" data-media-action="modal" id="media-100000005632214" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-7M4B/31weekend-briefing-slide-7M4B-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="David Dee Delgado for The New York Times" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-7M4B/31weekend-briefing-slide-7M4B-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-7M4B/31weekend-briefing-slide-7M4B-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-7M4B/31weekend-briefing-slide-7M4B-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            David Dee Delgado for The New York Times        </span>
+</figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="82" data-total-count="2965"><strong>7. Christmas</strong> may be over, but the shopping season still has some fight left in it.</p><p class="story-body-text story-content" data-para-count="191" data-total-count="3156"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/business/holiday-shopping-13th-month.html">A burst of consumer activity in the last week of the year</a> has some stores calling this period, which typically represents a lull in the shopping calendar, the 13th Month or the Second Season.</p><p class="story-body-text story-content" data-para-count="137" data-total-count="3293">Apple, a retail force in its own right, is <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/28/business/apple-iphone-batteries.html">offering discounts on replacement batteries</a> after accusations that it slowed down old iPhones.</p><figure class="interactive interactive-embedded limit-small layout-flex-medium" id="briefing-market-module">
+<figcaption class="interactive-caption">
+</figcaption>
+<div class="interactive-graphic">
+<!--
+
+======================================================
+
+THIS IS A GENERATED TEMPLATE FILE. DO NOT EDIT.
+
+======================================================
+
+-->
+<style>html,body{margin:0;padding:0}.page-interactive-embedded{margin:0 8px}.page-interactive-mobile .story.theme-main,.page-interactive-app .story.theme-main,.page-interactive-embedded .story.theme-main{margin:0}.nyt-markets{min-height:60px;padding-top:16px;padding-bottom:14px;color:#333;position:relative}.viewport-medium .nyt-markets{min-height:40px}.nyt-markets[data-status="loading"]{position:relative}.nyt-markets[data-status="loading"]:after{content:"";display:block;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);height:32px;width:32px;background-repeat:no-repeat;background-image:url(data:image/gif;base64,R0lGODlhIAAgAMQAAP///+zt6/7+/vHy8PDw7/j4+Pr7+v39/e3u7Pb29fLz8fT19PP08+7v7vb39vv8++7u7fT08/X29Pn5+ff39u/w7vz8/Pr6+fz8+/Lz8vj49/z9/P39/P7+/f7//vDx8CH/C05FVFNDQVBFMi4wAwEAAAAh/wtYTVAgRGF0YVhNUDw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ1dWlkOjFEMjM1OEQ1OEU2OURGMTE5RkI4QTQ4OURBRjgwMkZGIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjUxNDlFQjM1MjMyOTExRTNBOEU5ODQ3NjI0QTBCRjFEIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjUxNDlFQjM0MjMyOTExRTNBOEU5ODQ3NjI0QTBCRjFEIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzUgTWFjaW50b3NoIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RkM3RjExNzQwNzIwNjgxMTg3MUZFRkRGODdG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)}.nyt-markets .mkt-headline{font-family:"nyt-franklin", Helvetica, sans-serif;font-weight:500;font-size:12px;line-height:1.3;text-transform:uppercase;margin-bottom:0.8em;color:#333}.nyt-markets .mkt-headline time{color:#999;margin-left:2px}.nyt-markets .mkt-headline a{display:inline-block;text-transform:none;border-left:1px solid #ddd;padding-left:10px;margin-left:10px}.viewport-medium .nyt-markets .mkt-headline a{padding-left:15px;margin-left:15px}.nyt-markets .mkt-index-list{margin:0}.nyt-markets .mkt-index-list .mkt-index{font-family:"nyt-franklin", Helvetica, sans-serif;font-size:15px;font-weight:500;line-height:1.5;text-transform:uppercase;display:inline-block;vertical-align:top;width:100%}.viewport-medium .nyt-markets .mkt-index-list .mkt-index{font-size:16px;width:auto;margin-right:1.6em}.nyt-markets .mkt-index-list .mkt-index .percent{font-weight:400;margin-left:0.4em;color:#777}.nyt-markets .mkt-index-list .mkt-index .percent:before{content:"";display:inline-block;border-left:.375em solid transparent;border-right:.375em solid transparent}.nyt-markets .mkt-index-list .mkt-index .status{margin-left:8px;font-size:10px}.viewport-medium .nyt-markets .mkt-index-list .mkt-index .status{display:block;margin-left:0px}.nyt-markets .mkt-index-list .mkt-index.up .percent{color:#3C8A37}.nyt-markets .mkt-index-list .mkt-index.up .percent:before{margin-right:0.2em;border-bottom:.75em solid #2CB224;border-top:0 solid transparent}.nyt-markets .mkt-index-list .mkt-index.down .percent{color:#A81817}.nyt-markets .mkt-index-list .mkt-index.down .percent:before{margin-right:0.15em;border-top:.75em solid #BF0100;border-bottom:0 solid transparent}.nyt-markets .mkt-index-list .mkt-index.closed{color:#777}.nyt-markets .mkt-index-list .mkt-index.closed .percent{color:inherit}.nyt-markets .mkt-index-list .mkt-index.closed .percent:before{border-bottom-color:#BBB;border-top-color:#BBB}
+</style>
+<style>
+#briefing-market-module.interactive-embedded {
+  min-width: 0;
+  max-width: 500px;
+  margin-top: 4px;
+  padding: 0;
+}
+
+#briefing-market-module.interactive-embedded .interactive-graphic {
+  margin: 0;
+}
+
+#briefing-market-module.interactive-embedded .interactive-caption {
+  display: none;
+}
+</style>
+<div class="nyt-markets" data-preview-slug="2016-05-04-markets-module" data-status="loading" id="nyt-markets">
+<h4 class="mkt-headline">Market Snapshot <time></time><a href="//web.archive.org/web/20171231184744/https://markets.on.nytimes.com/research/markets/overview/overview.asp">View Full Overview</a></h4>
+<ul class="mkt-index-list"></ul>
+</div>
+<script>onMarketModuleData=function(e){var t=[{time:"9:00",offset:-9,locale:"Asia/Tokyo",indexes:["S. & P. 500","Dow","Nikkei"]},{time:"9:15",offset:-8,locale:"Asia/Shanghai",indexes:["Nikkei","Shanghai","S. & P. 500"]},{time:"8:00",offset:0,dst:[[0,2],[-1,9]],locale:"Europe/London",indexes:["FTSE 100","Nikkei","Shanghai"]},{time:"9:30",offset:5,dst:[[1,2],[0,10]],locale:"America/New_York",indexes:["S. & P. 500","Dow","Nasdaq"]}],n={};for(var r=0;r<e.Tabs.length;r++)for(var i=0;i<e.Tabs[r].Items.length;i++){var s=e.Tabs[r].Items[i];n[s.Label]=s}var o=function(e,t,n){var r=e.split(":"),i=parseInt(r[0]),s=parseInt(r[1]),o=(i+24+t)%24*36e5;return o+=s*6e4,o},u=function(e,t){if(t){var n=t[0],r=t[1],i=e.getUTCMonth(),s=e.getUTCFullYear(),o=e.getUTCDate();if(i>n[1]&&i<r[1])return-1;if(i==n[1]){var u=new Date(s,n[1]+(n[0]<0?1:0),n[0]<0?0:1),a=u.getUTCDate()+(0-u.getUTCDay()+7)%7+n[0]*7;if(o>=a)return-1}else if(i==r[1]){var f=new Date(s,r[1]+(r[0]<0?1:0),r[0]<0?0:1),l=f.getUTCDate()+(0-f.getUTCDay()+7)%7+r[0]*7;if(o<l)return-1}}return 0},a=function(e,n){var r=e.getUTCHours()*36e5+e.getUTCMinutes()*6e4;for(var i=0;i<t.length;i++){var s=t[i],a=t[i+1<t.length?i+1:0],f=o(s.time,s.offset+u(e,s.dst)),l=o(a.time,a.offset+u(e,a.dst));if(r>=f&&r<l)break}return s},f=function(e){return e=e.replace("S. & P.","S.&amp;&thinsp;P."),e},l=function(e){var t=e>=0?e>0?"+":"":"&ndash;";return t+Math.abs(e.toFixed(2))+"%"},c=function(e){var t=e.getHours(),n=t<12?"am":"pm";t=t%12||12;var r=e.getMinutes();return r=r<10?"0"+r:r,t+":"+r+" "+n},h="",p=new Date,d=a(p,t);for(var r=0;r<d.indexes.length;r++){var v=n[d.indexes[r]],m=v.IsOpen==="True"?" open":" closed",g=v.PercentChange>=0?v.PercentChange>0?" up":" same":" down";h+='<li class="mkt-index'+m+g+'">'+'<span class="name">'+f(v.Label)+"</span>"+'<span class="percent">'+l(v.PercentChange)+"</span>"+(v["IsOpen"]!="True"?'<span class="status">closed</span>':"")+"</li>"}document.documentElement.querySelector("#nyt-markets .mkt-headline time").innerHTML=c(p),document.documentElement.querySelector("#nyt-markets .mkt-index-list").innerHTML=h,document.getElementById("nyt-markets").setAttribute("data-status","ready")},define("script",function(){});</script>
+<script async="“async”" defer="“defer”" src="//web.archive.org/web/20171231184744js_/https://markets.on.nytimes.com/research/Net/SectionFrontAPI/MarketModuleData/jsonp?callback=onMarketModuleData" type="text/javascript"></script>
+<!-- Pipeline: 2016-05-04-markets-module | November 4, 2016, 03:38PM | 7da2260e4d17c03fbe6b6896bde1aa3c4e2ad039 -->
+</div>
+<div class="footer">
+</div>
+</figure>
+<p class="story-body-text story-content" data-para-count="4" data-total-count="3297">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632249 ratio-tall" data-media-action="modal" id="media-100000005632249" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-B649/31weekend-briefing-slide-B649-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="Richard Perry/The New York Times" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-B649/31weekend-briefing-slide-B649-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-B649/31weekend-briefing-slide-B649-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/30/briefing/31weekend-briefing-slide-B649/31weekend-briefing-slide-B649-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            Richard Perry/The New York Times        </span>
+</figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="47" data-total-count="3344"><strong>8. Two hundred people</strong> being paid for no reason.</p><p class="story-body-text story-content" data-para-count="201" data-total-count="3545">That’s only one of the factors at play in explaining why, mile for mile, <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/28/nyregion/new-york-subway-construction-costs.html">new transit infrastructure in New York can cost seven times the global average</a>. Above, construction on the Second Avenue line.</p><p class="story-body-text story-content" data-para-count="82" data-total-count="3627">We asked experts what it would take to fix the subway: <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/interactive/2017/12/22/nyregion/what-would-it-take-to-fix-new-yorks-subway.html">Here are their suggestions</a>.</p><p class="story-body-text story-content" data-para-count="135" data-total-count="3762">Those who travel on the city’s streets, not below them, may soon face fees under a <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/29/nyregion/new-york-congestion-pricing-new-support-steadfast-critics.html">congestion pricing plan</a> that would affect drivers.</p><div class="story-ad ad ad-placeholder nocontent robots-nocontent " id="story-ad-3">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-5">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="4" data-total-count="3766" id="story-continues-5">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005632139" data-media-action="modal" id="media-100000005632139" itemid="https://static01.nyt.com/images/2017/12/31/upshot/gifs-emotions-by-country-1514502948542-copy/gifs-emotions-by-country-1514502948542-master675-v2.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/31/upshot/gifs-emotions-by-country-1514502948542-copy/gifs-emotions-by-country-1514502948542-superJumbo-v6.gif" itemid="https://static01.nyt.com/images/2017/12/31/upshot/gifs-emotions-by-country-1514502948542-copy/gifs-emotions-by-country-1514502948542-master675-v2.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/31/upshot/gifs-emotions-by-country-1514502948542-copy/gifs-emotions-by-country-1514502948542-master675-v2.jpg"/>
+<meta content="338" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+</figure>
+<p class="story-body-text story-content" data-para-count="193" data-total-count="3959"><strong>9. The year</strong> that has been is almost the year that was. In our <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/interactive/2017/reader-center/year-in-review.html">2017 Year in Review</a>, Times critics and editors weigh in on the best of the year gone by and size up the moments that mattered most.</p><p class="story-body-text story-content" data-para-count="137" data-total-count="4096">Another year-end insight: Here is <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/interactive/2017/12/29/upshot/gifs-emotions-by-country.html">what love, sadness and anger look like in five countries</a>, according to their most frequently used GIFs.</p><p class="story-body-text story-content" data-para-count="4" data-total-count="4100">____</p><figure aria-label="media" class="media photo embedded layout-large-horizontal media-100000005581943 ratio-tall" data-media-action="modal" id="media-100000005581943" itemid="https://static01.nyt.com/images/2017/12/01/smarter-living/guide-resolution/guide-resolution-master675.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="" data-mediaviewer-credit="" data-mediaviewer-src="http://web.archive.org/web/20171231184744/https://static01.nyt.com/images/2017/12/01/smarter-living/guide-resolution/guide-resolution-superJumbo.gif" itemid="https://static01.nyt.com/images/2017/12/01/smarter-living/guide-resolution/guide-resolution-master675.jpg" itemprop="url" src="http://web.archive.org/web/20171231184744im_/https://static01.nyt.com/images/2017/12/01/smarter-living/guide-resolution/guide-resolution-master675.jpg"/>
+<meta content="450" itemprop="height"/>
+<meta content="675" itemprop="width"/>
+</div>
+</figure>
+<p class="story-body-text story-content" data-para-count="188" data-total-count="4288"><strong>10. Finally,</strong> just because past resolutions might not have worked out exactly as planned, that doesn’t mean Jan. 1 isn’t as good a day as any to embark on a journey of self-improvement.</p><p class="story-body-text story-content" data-para-count="93" data-total-count="4381">Our Smarter Living team put together their <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/guides/smarterliving/resolution-ideas">best advice on how to make, and keep, resolutions</a>.</p><p class="story-body-text story-content" data-para-count="85" data-total-count="4466">More than half of all resolutions fail, but this year, they don’t have to be yours.</p><p class="story-body-text story-content" data-para-count="54" data-total-count="4520"><em>Have a great week, and best wishes for the year ahead.</em></p><p class="story-body-text story-content" data-para-count="4" data-total-count="4524"><em>____</em></p><p class="story-body-text story-content" data-para-count="61" data-total-count="4585"><em>Your Weekend Briefing is published Sundays at 6 a.m. Eastern.</em></p><p class="story-body-text story-content" data-para-count="124" data-total-count="4709"><em>And don’t miss <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/newsletters/morning-briefing">Your Morning Briefing</a>, weekdays at 6 a.m. Eastern, and <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/newsletters/evening-briefing">Your Evening Briefing</a>, weeknights at 6 p.m. Eastern.</em></p><p class="story-body-text story-content" data-para-count="69" data-total-count="4778"><em>Want to look back? You can browse <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/series/us-morning-briefing">past Morning</a> and <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/series/us-evening-briefing">Evening Briefings</a>.</em></p><p class="story-body-text story-content" data-para-count="110" data-total-count="4888"><em>If photographs appear out of order, please download the updated New York Times app <a href="http://web.archive.org/web/20171231184744/https://itunes.apple.com/us/app/nytimes-breaking-politics-national-world-news/id284862083?mt=8">from iTunes</a> or <a href="http://web.archive.org/web/20171231184744/https://play.google.com/store/apps/details?id=com.nytimes.android&amp;referrer=utm_source%3Dother_nyt_mobile_web%26utm_medium%3DWeb%2520page%26utm_term%3DGeneral%2520Mobile%2520Page%26utm_campaign%3DNYT%2520Mobile%2520General%2520Page">Google Play</a>.</em></p><p class="story-body-text story-content" data-para-count="85" data-total-count="4973"><em>What did you like? What do you want to see here? Let us know at <a href="http://web.archive.org/web/20171231184744/mailto:briefing@nytimes.com?subject=Weekend%20Briefing%20Feedback">briefing@nytimes.com</a>.</em></p> <a class="visually-hidden skip-to-text-link" href="#whats-next">Continue reading the main story</a>
+</div><!-- close story-body -->
+<div class="supplemental " id="supplemental-2">
+</div><!-- close supplemental -->
+</div><!-- close story-body-supplemental -->
+<div class="reader-satisfaction-survey prompt feedback-prompt story-content hidden">
+<a class="feedback-link" href="http://web.archive.org/web/20171231184744/https://docs.google.com/forms/d/e/1FAIpQLSfLW30xgZodF1qRAg80oWEGuDpW-1HHaL0g42G3SmvB2f4lCw/viewform?entry.8537735=https://www.nytimes.com/2017/12/31/briefing/new-years-eve-iran-donald-trump.html" target="_blank">
+<p class="feedback-message">We’re interested in your feedback on this page. <strong>Tell us what you think.</strong></p>
+</a>
+</div>
+<div class="hidden" id="storage-drawer">
+<div class="supplemental-sub-item" data-attribute-name="PaidPost" data-attribute-position="0" data-attribute-subtype="" data-attribute-type="PaidPost">
+<aside class="ad middle-right-ad paid-post-ad marginalia-item hidden nocontent robots-nocontent" id="middle-right-paid-post-container">
+<h2 class="marginalia-heading"></h2>
+<ul class="story-menu">
+<li class="story-menu-item ad" id="MiddleRightPaidPost1"></li>
+<li class="story-menu-item ad" id="MiddleRightPaidPost2"></li>
+<li class="story-menu-item ad" id="MiddleRightPaidPost3"></li>
+<li class="story-menu-item ad" id="MiddleRightPaidPost4"></li>
+</ul>
+</aside>
+</div>
+<div class="supplemental-sub-item" data-attribute-name="CollectionMarginalia" data-attribute-position="1" data-attribute-subtype="Series" data-attribute-type="Related">
+<aside class="marginalia collection-marginalia collection collection-type-column collection-tone-news collection-section-briefing collection-theme-latest-headlines nocontent robots-nocontent" role="complementary">
+<div class="nocontent robots-nocontent">
+<header>
+<div class="collection-meta">
+<div class="collection-headings">
+<h2 class="collection-marginalia-heading"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/series/us-weekend-briefing">Weekend Briefing</a></h2>
+<h3 class="collection-marginalia-subheading">Here’s what you need to know about the week’s top stories. See all Morning, Weekend and Evening briefings <a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/spotlight/us-briefing">together</a>.</h3>
+</div>
+</div>
+<div class="follow-button-placeholder" data-collection-id="column.us-weekend-briefing"></div>
+</header>
+<ul>
+<li><article class="story theme-summary">
+<a class="story-link" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/24/briefing/christmas-north-korea-donald-trump.html?rref=collection%2Fseriescollection%2FWeekend Briefing">
+<h2 class="headline">
+<span class="headline-text">
+                                Christmas, North Korea, Donald Trump: Your Weekend Briefing            </span>
+<time class="dateline">DEC 24</time>
+</h2>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary">
+<a class="story-link" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/17/briefing/alabama-california-donald-trump.html?rref=collection%2Fseriescollection%2FWeekend Briefing">
+<h2 class="headline">
+<span class="headline-text">
+                                Alabama, California, Donald Trump: Your Weekend Briefing            </span>
+<time class="dateline">DEC 17</time>
+</h2>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary">
+<a class="story-link" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/10/briefing/jerusalem-wildfires-roy-moore.html?rref=collection%2Fseriescollection%2FWeekend Briefing">
+<h2 class="headline">
+<span class="headline-text">
+                                Jerusalem, Wildfires, Roy Moore: Your Weekend Briefing            </span>
+<time class="dateline">DEC 10</time>
+</h2>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary">
+<a class="story-link" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/12/03/briefing/republican-party-michael-flynn-north-korea.html?rref=collection%2Fseriescollection%2FWeekend Briefing">
+<h2 class="headline">
+<span class="headline-text">
+                                Republican Party, Michael Flynn, North Korea: Your Weekend Briefing            </span>
+<time class="dateline">DEC 3</time>
+</h2>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary">
+<a class="story-link" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/2017/11/26/briefing/egypt-roy-moore-donald-trump.html?rref=collection%2Fseriescollection%2FWeekend Briefing">
+<h2 class="headline">
+<span class="headline-text">
+                                Egypt, Roy Moore, Donald Trump: Your Weekend Briefing            </span>
+<time class="dateline">NOV 26</time>
+</h2>
+</a>
+</article>
+</li>
+</ul>
+<footer>
+<p class="user-action"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/series/us-weekend-briefing">See More »</a></p>
+</footer>
+</div><!-- close nocontent -->
+</aside>
+</div>
+</div>
+</article>
+<aside class="module trending-module hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside><section class="whats-next nocontent robots-nocontent" id="whats-next">
+<h2 class="visually-hidden">What's Next</h2>
+<div class="nocontent robots-nocontent">
+<div class="loader-container">
+<div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+</div>
+</div><!-- close nocontent -->
+</section>
+<div class="text-ad bottom-left-ad nocontent robots-nocontent" id="TopAd1"></div>
+<div class="ad top5-ad hidden nocontent robots-nocontent" id="Top5"></div>
+<section class="module bundle-payflow-module"> <div class="bundle-payflow hidden"></div> <!-- end bundle-payflow -->
+</section>
+<div class="search-overlay"></div>
+</main><!-- close main -->
+<section class="site-index" id="site-index">
+<header class="section-header">
+<p class="user-action"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/">Go to Home Page »</a></p>
+<h2 class="section-heading">
+<span class="visually-hidden">Site Index</span>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/" id="site-index-branding-link">
+<span class="visually-hidden">The New York Times</span>
+</a>
+</h2>
+<script>window.magnum.writeLogo('small', 'http://web.archive.org/web/20171231184744/https://g1.nyt.com/assets/article/20171220-185702/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');</script>
+</header>
+<nav class="site-index-navigation" id="site-index-navigation" role="navigation">
+<h2 class="visually-hidden">Site Index Navigation</h2>
+<div class="split-6-layout layout">
+<div class="column">
+<h3 class="menu-heading">News</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/world">World</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/us">U.S.</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/politics">Politics</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/nyregion">N.Y.</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/business">Business</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/technology">Tech</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/science">Science</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/health">Health</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/sports">Sports</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/education">Education</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/obituaries">Obituaries</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/corrections">Corrections</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Opinion</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/opinion/columnists">Op-Ed Columnists</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/opinion/editorials">Editorials</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/opinion/contributors">Op-Ed Contributors</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/opinion/letters">Letters</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/opinion/sunday">Sunday Review</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/video/opinion">Video: Opinion</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Arts</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/arts">Today's Arts</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/arts/design">Art &amp; Design</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/books">Books</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/arts/dance">Dance</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/movies">Movies</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/arts/music">Music</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/arts/television">Television</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/theater">Theater</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/video/arts">Video: Arts</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Living</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/automobiles">Automobiles</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/crosswords">Crossword</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/pages/dining/index.html">Food</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/education">Education</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/fashion">Fashion &amp; Style</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/health">Health</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/jobs">Jobs</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/magazine">Magazine</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/realestate">Real Estate</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/t-magazine">T Magazine</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/travel">Travel</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/fashion/weddings">Weddings &amp; Celebrations</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Listings &amp; More</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/reader-center">Reader Center</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/ref/classifieds/">Classifieds</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/marketing/tools-and-services/">Tools &amp; Services</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/section/multimedia">Multimedia</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://lens.blogs.nytimes.com/">Photography</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/video">Video</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://store.nytimes.com/?action=click&amp;contentCollection=NYT%20Store&amp;contentPlacement=2&amp;module=SectionsNav&amp;pgtype=Homepage&amp;region=TopBar&amp;t=qry542&amp;utm_campaign=NYT-HP&amp;utm_content=hp_browsetree&amp;utm_medium=HPB&amp;utm_source=nytimes&amp;version=BrowseTree">NYT Store</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/times-journeys/?utm_source=nytimes&amp;utm_medium=HPLink&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP">Times Journeys</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/seeallnav">Subscribe</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/membercenter">Manage My Account</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/http://www.nytco.com/">NYTCo</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column last-column">
+<h3 class="menu-heading">Subscribe</h3>
+<ul class="menu primary-menu">
+<li class="menu-label">Subscribe</li>
+<li class="home-delivery">
+<i class="icon sprite-icon"></i>
+<a class="nyt-home-delivery" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/hdleftnav">Home Delivery</a>
+</li>
+<li class="digital-subscriptions">
+<i class="icon sprite-icon"></i>
+<a class="digital-subscription" href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+</li>
+<li class="nyt-crossword last-item">
+<i class="icon sprite-icon"></i>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/crosswords/index.html" id="nyt-crossword">Crossword</a>
+</li>
+</ul>
+<ul class="menu secondary-menu">
+<li class="email-newsletters">
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+</li>
+<li class="gift-subscription">
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/corporateleftnav">Group Subscriptions</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/educationleftnav">Education Rate</a>
+</li>
+</ul>
+<ul class="menu secondary-menu">
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184744/http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+</li>
+</ul>
+</div><!-- close column -->
+</div><!-- close split-6-layout -->
+</nav><!-- close nav -->
+</section><!-- close site-index -->
+<footer class="page-footer" id="page-footer" role="contentinfo">
+<nav>
+<h2 class="visually-hidden">Site Information Navigation</h2>
+<ul>
+<li>
+<a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    © <span itemprop="copyrightYear">2017</span><span itemid="http://www.nytimes.com" itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name"> The New York Times Company</span><meta content="NYSE NYT" itemprop="tickerSymbol"/></span>
+</a>
+</li>
+<li class="visually-hidden"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/">Home</a></li>
+<li class="visually-hidden"><a href="http://web.archive.org/web/20171231184744/http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+<li class="visually-hidden">Accessibility concerns? Email us at <a href="http://web.archive.org/web/20171231184744/mailto:accessibility@nytimes.com">accessibility@nytimes.com</a>. We would love to hear from you.</li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184744/http://www.nytco.com/careers">Work With Us</a></li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184744/http://nytmediakit.com/">Advertise</a></li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+<li class="wide-viewport-item last-item"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+</ul>
+</nav>
+<nav class="last-nav">
+<h2 class="visually-hidden">Site Information Navigation</h2>
+<ul>
+<li><a href="http://web.archive.org/web/20171231184744/http://spiderbites.nytimes.com/">Site Map</a></li>
+<li><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://web.archive.org/web/20171231184744/https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+<li class="wide-viewport-item last-item"><a href="http://web.archive.org/web/20171231184744/https://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+</ul>
+</nav>
+</footer>
+</div><!-- close page -->
+</div><!-- close shell -->
+<script async="" src="http://web.archive.org/web/20171231184744js_/https://tags.bluekai.com/site/50550?ret=js&amp;limit=1" type="text/javascript"></script>
+<script async="" src="http://web.archive.org/web/20171231184744js_/https://cdn.optimizely.com/public/3013110282/s/article_prod.js" type="text/javascript"></script>
+<script>
+require(['foundation/main'], function () {
+    require(['story/main']);
+
+
+         
+
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['http://web.archive.org/web/20171231184744/https://a1.nyt.com/analytics/json-kidd.min.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+<!--esi                                                                                                                    
+<esi:include src="/appconfig/https/show-modal.js" />                                                                       
+-->
+<div class="ad inv1-ad hidden" id="Inv1"></div>
+<div class="ad inv2-ad hidden" id="Inv2"></div>
+<div class="ad inv3-ad hidden" id="Inv3"></div>
+<div class="ad ab1-ad hidden" id="ab1"></div>
+<div class="ad ab2-ad hidden" id="ab2"></div>
+<div class="ad ab3-ad hidden" id="ab3"></div>
+<div class="ad prop1-ad hidden" id="prop1"></div>
+<div class="ad prop2-ad hidden" id="prop2"></div>
+<div class="ad anchor-ad hidden" id="Anchor"></div>
+<div class="ad adx-clientside-ad hidden" id="ADX_CLIENTSIDE"></div>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 18:47:44 Dec 31, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:33:30 Sep 06, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

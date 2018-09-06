@@ -1,0 +1,1281 @@
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--><html class="no-js section-europe format-medium tone-news app-article page-theme-standard has-top-ad type-size-small has-large-lede" itemid="https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" itemscope="" itemtype="http://schema.org/NewsArticle" lang="en" xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-europe format-medium tone-news app-article page-theme-standard has-top-ad type-size-small has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-europe format-medium tone-news app-article page-theme-standard has-top-ad type-size-small has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-europe format-medium tone-news app-article page-theme-standard has-top-ad type-size-small has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head><script src="/static/js/ait-client-rewrite.js" type="text/javascript"></script>
+<script type="text/javascript">
+WB_wombat_Init('http://web.archive.org/web', '20171231184640', 'www.nytimes.com');
+</script>
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=1328;archive_analytics.send_pageview({});});</script><script charset="utf-8" src="/static/js/wbhack.js?v=1533593143.0" type="text/javascript"></script>
+<script type="text/javascript">
+__wbhack.init('http://web.archive.org/web');
+</script>
+<link href="/static/css/banner-styles.css?v=1533593143.0" rel="stylesheet" type="text/css"/>
+<link href="/static/css/iconochive.css?v=1533593143.0" rel="stylesheet" type="text/css"/>
+<!-- End Wayback Rewrite JS Include -->
+<title>Greek Prime Minister Seeks to Block Asylum for Turkish Officer - The New York Times</title>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<link href="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/favicon.ico" rel="shortcut icon"/>
+<link href="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/icons/ios-ipad-144x144.png" rel="apple-touch-icon-precomposed" sizes="144×144"/>
+<link href="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/icons/ios-iphone-114x144.png" rel="apple-touch-icon-precomposed" sizes="114×114"/>
+<link href="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png" rel="apple-touch-icon-precomposed"/>
+<meta content="nyt-v5" name="sourceApp"/>
+<meta content="article" id="applicationName" name="applicationName"/>
+<meta content="" id="foundation-build-id" name="foundation-build-id"/>
+<link href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" rel="canonical"/>
+<link href="http://web.archive.org/web/20171231184640/http://mobile.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="http://web.archive.org/web/20171231184640/http://mobile.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" media="handheld" rel="alternate"/>
+<link href="http://web.archive.org/web/20171231184640/https://mobile.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.amp.html" rel="amphtml"/>
+<meta content="nytimes://reader/id/100000005632440" property="al:android:url"/>
+<meta content="com.nytimes.android" property="al:android:package"/>
+<meta content="NYTimes" property="al:android:app_name"/>
+<meta content="NYTimes" name="twitter:app:name:googleplay"/>
+<meta content="com.nytimes.android" name="twitter:app:id:googleplay"/>
+<meta content="nytimes://reader/id/100000005632440" name="twitter:app:url:googleplay"/>
+<link href="http://web.archive.org/web/20171231184640/android-app://com.nytimes.android/nytimes/reader/id/100000005632440" rel="alternate"/>
+<meta content="nytimes://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" property="al:iphone:url"/>
+<meta content="284862083" property="al:iphone:app_store_id"/>
+<meta content="NYTimes" property="al:iphone:app_name"/>
+<meta content="nytimes://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" property="al:ipad:url"/>
+<meta content="357066198" property="al:ipad:app_store_id"/>
+<meta content="NYTimes" property="al:ipad:app_name"/>
+<meta content="noarchive" name="robots"/>
+<meta content="" itemprop="alternativeHeadline" name="hdl_p"/>
+<meta content="" name="channels"/>
+<meta content="In an apparent effort to avoid antagonizing Turkey, Greece’s prime minister moved to block asylum for a Turkish officer who fled last year’s failed coup." itemprop="description" name="description"/>
+<meta content="News" itemprop="genre" name="genre"/>
+<meta content="100000005632440" itemprop="identifier" name="articleid"/>
+<meta content="https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html" itemprop="usageTerms" name="usageTerms"/>
+<meta content="en-US" itemprop="inLanguage"/>
+<meta content="Greek Prime Minister Seeks to Block Asylum for Turkish Officer" name="hdl"/>
+<meta content="" id="column-name" name="col"/>
+<meta content="20171230" name="pdate"/>
+<meta content="20171231101508" name="utime"/>
+<meta content="20171230222802" name="ptime"/>
+<meta content="Dec. 30, 2017" name="DISPLAYDATE"/>
+<meta content="Dec. 30, 2017" name="dat"/>
+<meta content="In an apparent effort to avoid antagonizing Turkey, Greece’s prime minister moved to block asylum for a Turkish officer who fled last year’s failed coup." name="lp"/>
+<meta content="http://www.nytimes.com" name="msapplication-starturl"/>
+<meta content="The New York Times" name="cre"/>
+<meta content="31greece" name="slug"/>
+<meta content="https://static01.nyt.com/services/json/sectionfronts/world/europe/index.jsonp" property="article:collection"/>
+<meta content="https://static01.nyt.com/services/json/sectionfronts/world/europe/index.jsonp" name="sectionfront_jsonp"/>
+<meta content="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" property="og:url"/>
+<meta content="article" property="og:type"/>
+<meta content="Greek Prime Minister Seeks to Block Asylum for Turkish Officer" property="og:title"/>
+<meta content="In an apparent effort to avoid antagonizing Turkey, Greece’s prime minister moved to block asylum for a Turkish officer who fled last year’s failed coup." property="og:description"/>
+<meta content="2017-12-30T22:28:02-05:00" itemprop="datePublished" property="article:published"/>
+<meta content="2017-12-31T10:15:08-05:00" itemprop="dateModified" property="article:modified"/>
+<meta content="Europe" itemprop="articleSection" property="article:section"/>
+<meta content="9A43D8FC-F4CF-44D9-9B34-138D30468F8F" itemprop="articleSection" property="article:section-taxonomy-id"/>
+<meta content="https://www.nytimes.com/pages/world/index.html" property="article:section_url"/>
+<meta content="world" property="article:top-level-section"/>
+<meta content="9869919170" property="fb:app_id"/>
+<meta name="twitter:site" value="@nytimes"/>
+<meta content="https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" property="twitter:url"/>
+<meta content="Greek Prime Minister Seeks to Block Asylum for Turkish Officer" property="twitter:title"/>
+<meta content="In an apparent effort to avoid antagonizing Turkey, Greece’s prime minister moved to block asylum for a Turkish officer who fled last year’s failed coup." property="twitter:description"/>
+<meta content="Niki Kitsantonis" name="author"/>
+<meta content="news" id="article-tone" name="tone"/>
+<meta content="By NIKI KITSANTONIS" name="byl"/>
+<meta content="article" name="PT"/>
+<meta content="world" name="CG"/>
+<meta content="europe" name="SCG"/>
+<meta content="News" name="PST"/>
+<meta content="News" name="tom"/>
+<meta content="The New York Times on the Web" name="edt"/>
+<meta content="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-facebookJumbo.jpg" property="og:image"/>
+<meta content="Prime Minister Alexis Tsipras of Greece, left, welcomes President Recep Tayyip Erdogan of Turkey during Mr. Erdogan’s two-day visit to Greece this month." property="twitter:image:alt"/>
+<meta content="https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-videoSixteenByNineJumbo1600.jpg" property="twitter:image"/>
+<meta name="twitter:card" value="summary_large_image"/>
+<meta name="twitter:creator" value="NikiKitsantonis"/>
+<meta content="Asylum, Right of" property="article:tag"/>
+<meta content="Asylum, Right of" name="des"/>
+<meta content="Defense and Military Forces" property="article:tag"/>
+<meta content="Defense and Military Forces" name="des"/>
+<meta content="Tsipras, Alexis" property="article:tag"/>
+<meta content="Tsipras, Alexis" name="per"/>
+<meta content="Erdogan, Recep Tayyip" property="article:tag"/>
+<meta content="Erdogan, Recep Tayyip" name="per"/>
+<meta content="Greece" property="article:tag"/>
+<meta content="Greece" name="geo"/>
+<meta content="Turkey" property="article:tag"/>
+<meta content="Turkey" name="geo"/>
+<meta content="Coups D'Etat and Attempted Coups D'Etat" property="article:tag"/>
+<meta content="Coups D'Etat and Attempted Coups D'Etat" name="des"/>
+<meta content="Asylum  Right of,Defense and Military Forces,Tsipras  Alexis,Erdogan  Recep Tayyip,Greece,Turkey,Coups D'Etat and Attempted Coups D'Etat" name="keywords"/>
+<meta content="Right of asylum,Military,Alexis Tsipras,Recep Tayyip Erdogan,Greece,Turkey,Coups D'Etat" name="news_keywords"/>
+<meta content="https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-thumbLarge.jpg" name="thumbnail_150"/>
+<meta content="150" name="thumbnail_150_height"/>
+<meta content="150" name="thumbnail_150_width"/>
+<meta content="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-thumbStandard.jpg" itemprop="thumbnailUrl" name="thumbnail"/>
+<meta content="75" name="thumbnail_height"/>
+<meta content="75" name="thumbnail_width"/>
+<meta content="world/europe" name="dfp-ad-unit-path"/>
+<meta content="false" name="dfp-amazon-enabled"/>
+<link href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/svc/oembed/json/?url=https%3A%2F%2Fwww.nytimes.com%2F2017%2F12%2F30%2Fworld%2Feurope%2Fgreece-turkey-coup-asylum.html" rel="alternate" title="Greek Prime Minister Seeks to Block Asylum for Turkish Officer" type="application/json+oembed"/>
+<meta content="5281959998" property="fb:pages"/>
+<meta content="1002391179791389" property="fb:pages"/>
+<meta content="105307012882667" property="fb:pages"/>
+<meta content="123334484346296" property="fb:pages"/>
+<meta content="142271415829971" property="fb:pages"/>
+<meta content="1453472561556218" property="fb:pages"/>
+<meta content="153491058028703" property="fb:pages"/>
+<meta content="1545690368981813" property="fb:pages"/>
+<meta content="1606969219532748" property="fb:pages"/>
+<meta content="173455642668373" property="fb:pages"/>
+<meta content="176999952314969" property="fb:pages"/>
+<meta content="181548405298864" property="fb:pages"/>
+<meta content="340711315527" property="fb:pages"/>
+<meta content="5518834980" property="fb:pages"/>
+<meta content="689907071131476" property="fb:pages"/>
+<meta content="751965821517958" property="fb:pages"/>
+<meta content="8254939527" property="fb:pages"/>
+<meta content="98934992430" property="fb:pages"/>
+<meta content="993603507345855" property="fb:pages"/>
+<link href="http://web.archive.org/web/20171231184640cs_/https://typeface.nyt.com/css/zam5nzz.css" id="legacy-zam5nzz" media="all" rel="stylesheet" type="text/css"/>
+<!--[if (gt IE 9)|!(IE)]> <!-->
+<link href="http://web.archive.org/web/20171231184640cs_/https://a1.nyt.com/assets/article/20171220-112218/css/article/story/styles.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
+<!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="https://a1.nyt.com/assets/article/20171220-112218/css/article/story/styles-ie.css" />
+    <![endif]-->
+<link href="http://web.archive.org/web/20171231184640cs_/https://a1.nyt.com/assets/article/20171220-112218/css/article/story/styles-print.css" media="print" rel="stylesheet" type="text/css"/>
+<!--  begin abra  -->
+<script>
+var NYTD=NYTD||{};NYTD.Abra=function(t){"use strict";function n(t){var n=i[t];return n&&n[1]||null}function e(t,n){if(t){var e,o,r=n[0],i=n[1],u=0,c=0;if(1!==i.length||4294967296!==i[0])for(e=a(t+" "+r)>>>0,u=0,c=0;o=i[u++];)if(e<(c+=o[0]))return o}}function o(n,e,o,a){s+="subject="+n+"&test="+encodeURIComponent(e)+"&variant="+encodeURIComponent(o||0)+"&url="+encodeURIComponent(t.location.href)+"&instant=1&skipAugment=true\n",a&&f.push(a),c||(c=t.setTimeout(r,0))}function r(){var n=new t.XMLHttpRequest,e=f;n.withCredentials=!0,n.open("POST",u),n.onreadystatechange=function(){var t,o;if(4==n.readyState)for(t=200==n.status?null:new Error(n.statusText);o=e.shift();)o(t)},n.send(s),s="",f=[],c=null}function a(t){for(var n,e,o,r,a,i,u,c=0,s=0,f=[],l=[n=1732584193,e=4023233417,~n,~e,3285377520],h=[],p=t.length;s<=p;)h[s>>2]|=(s<p?t.charCodeAt(s):128)<<8*(3-s++%4);for(h[u=p+8>>2|15]=p<<3;c<=u;c+=16){for(n=l,s=0;s<80;n=[0|[(i=((t=n[0])<<5|t>>>27)+n[4]+(f[s]=s<16?~~h[c+s]:i<<1|i>>>31)+1518500249)+((e=n[1])&(o=n[2])|~e&(r=n[3])),a=i+(e^o^r)+341275144,i+(e&o|e&r|o&r)+882459459,a+1535694389][0|s++/20],t,e<<30|e>>>2,o,r])i=f[s-3]^f[s-8]^f[s-14]^f[s-16];for(s=5;s;)l[--s]=l[s]+n[s]|0}return l[0]}var i,u,c,s="",f=[];return n.init=function(n,r){var a,c,s,f,l,h=[],p=(t.document.cookie.match(/(^|;) *nyt-a=([^;]*)/)||[])[2],d=(t.document.cookie.match(/(^|;) *ab7=([^;]*)/)||[])[2],m=new RegExp("[?&]abra(=([^&#]*))"),g=m.exec(t.location.search);if(g&&g[2]&&(d=d?g[2]+"&"+d:g[2]),i)throw new Error("can't init twice");if(u=r,i={},d)for(d=decodeURIComponent(d).split("&"),a=0;a<d.length;a++)l=d[a].split("="),l[0]in i||(i[l[0]]=[,l[1],1],o("ab-alloc",l[0],l[1]),l[1]&&h.push(l[0]+"="+l[1]));for(a=0;a<n.length;a++)s=n[a],(c=s[0])in i||(f=e(p,s)||[],i[c]=f,f[1]&&h.push(c.replace(/[^\w-]/g)+"="+(""+f[1]).replace(/[^\w-]/g)),f[2]&&o("ab-alloc",c,f[1]));h.length&&t.document.documentElement.setAttribute("data-nyt-ab",h.join(" "))},n.reportExposure=function(n,e){var r=i[n];r&&r[2]?o("ab-expose",n,r[1],e):e&&t.setTimeout(function(){e(null)},0)},n}(this);
+</script>
+<script>NYTD.Abra.init([["www-story-reader-satisfaction",[[21474837,"Control",1],[21474836,"VariantA",1],[4252017623,null,0]]],["www-signup-favor-test",[[2147483648,"0",1],[2147483648,"1",1]]],["www-fixed-nav-subscribe-test",[[4294967296,"1",1]]],["www-ad-diagnostic",[[21474837,"1",0],[4273492459,null,0]]],["www-fabrik-off",[[4294967296,"1",1]]],["www-auto-newsletter",[[4294967296,"1",1]]],["www-STORY_3bundlePayflow-v3",[[4294967296,"1",1]]],["www-STRIK-nl-regi",[[1434519077,"control",1],[1430224110,"1",1],[1430224109,"2",1],[0,null,0]]],["www-indexAsHeaderBidder",[[4294967296,"2",1]]],["EC_SampleTest",[[2147483648,"variantA",0],[2147483648,"variantB",0]]],["EC_DigiAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_HdAbandonmentTest",[[4294967296,"sendAbandonmentEmail",1]]],["EC_CrosswordsUpsellTest",[[2147483648,"control",1],[2147483648,"upsell",1]]]], '//web.archive.org/web/20171231184640/https://et.nytimes.com/')</script>
+<!--  end abra  -->
+<script>
+/* ABRA reporting for Vi rollout. Please don't hand-edit this minified snippet. <https://github.com/nytm/vi-rollout-abra-reporting-js> (67c2140 @ Mon Dec 11 17:51:59 EST 2017) */ function reportViRolloutToABRA(t,e,o){"use strict";var i,a,n,r,s="";if(e&&(/^mobile\./.test(window.location.hostname)?(i=(document.cookie.match(/(?:^|;) *vi=([^;]*)/)||[,""])[1],a=(document.cookie.match(/(?:^|;) *nyt\.np\.vi=([^;]*)/)||[,""])[1],n=/^b1/.test(i)?"WP_ProjectVi&variant=vi":/^z1/.test(i)?"WP_ProjectVi&variant=0":/^a2/.test(i)?"WP_ProjectVi2&variant=hp-st":/^b2/.test(i)?"WP_ProjectVi2&variant=hp":/^c2/.test(i)?"WP_ProjectVi2&variant=st":/^z2/.test(i)?"WP_ProjectVi2&variant=0":/^1\|/.test(a)?"WP_ProjectVi&variant=vi":/^2\|/.test(a)?"WP_ProjectVi&variant=0":null):/^www\./.test(window.location.hostname)&&(i=(document.cookie.match(/(?:^|;) *vi_www_hp=([^;]*)/)||[,""])[1],n=/^a2/.test(i)?"WP_ProjectVi_www_hp&variant=hp-st":/^b2/.test(i)?"WP_ProjectVi_www_hp&variant=hp":/^c2/.test(i)?"WP_ProjectVi_www_hp&variant=st":/^d2/.test(i)?"WP_ProjectVi_www_hp&variant=hp-2":/^y2/.test(i)?"WP_ProjectVi_www_hp&variant=0-2":/^z2/.test(i)?"WP_ProjectVi_www_hp&variant=0":null),n&&(s+="subject=ab-alloc&test="+n+"&url="+encodeURIComponent(window.location.href)+"&instant=1&skipAugment=true\n")),o&&(/^mobile\./.test(window.location.hostname)?(i=(document.cookie.match(/(?:^|;) *vistorymobile=([^;]*)/)||[,""])[1],r=/^a/.test(i)?"WP_ProjectVi_Story_Mobile&variant=st":/^b/.test(i)?"WP_ProjectVi_Story_Mobile&variant=sth":/^c/.test(i)?"WP_ProjectVi_Story_Mobile&variant=mw":/^z/.test(i)?"WP_ProjectVi_Story_Mobile&variant=mwh":null):/^www\./.test(window.location.hostname)&&(i=(document.cookie.match(/(?:^|;) *vistory=([^;]*)/)||[,""])[1],r=/^a/.test(i)?"WP_ProjectVi_story_desktop&variant=sd":/^b/.test(i)?"WP_ProjectVi_story_desktop&variant=sdh":/^c/.test(i)?"WP_ProjectVi_story_desktop&variant=nyt5":/^z/.test(i)?"WP_ProjectVi_story_desktop&variant=nyt5h":null),r&&(s+="subject=ab-alloc&test="+r+"&url="+encodeURIComponent(window.location.href)+"&instant=1&skipAugment=true\n")),s){var c=new XMLHttpRequest;c.withCredentials=!0,c.open("POST",t),c.send(s)}}
+</script>
+<script>
+  reportViRolloutToABRA(
+    '//web.archive.org/web/20171231184640/https://et.nytimes.com/',
+    false,
+    true  );
+</script>
+<script id="page-config-data" type="text/json">
+{"pageconfig":{"ledeMediaSize":"large","keywords":["article-medium"],"collections":{"sections":["world","europe"]}}}</script>
+<script id="display_overrides">
+            []    </script>
+<script type="text/javascript">
+        (function() {
+            var s = document.getElementsByTagName("script")[0];
+            var mediaDotNet = 'http://web.archive.org/web/20171231184640/https://contextual.media.net/bidexchange.js?cid=8CU2553YN&amp;https=1';
+            var indexBid = 'http://web.archive.org/web/20171231184640/https://js-sec.indexww.com/ht/p/183760-203795517182556.js';
+            var timeout = 300;
+
+            function loadScript(tagSrc) {
+                if (tagSrc.substr(0, 4) !== 'http') {
+                    var isSSL = 'https:' == document.location.protocol;
+                    tagSrc = (isSSL ? 'https:' : '') + tagSrc;
+                }
+                var scriptTag = document.createElement('script'),
+                    placeTag = document.getElementsByTagName("script")[0];
+                scriptTag.type = 'text/javascript';
+                scriptTag.async = true;
+                scriptTag.src = tagSrc;
+                s.parentNode.insertBefore(scriptTag, s);
+            }
+
+            function loadGPT() {
+                if (!window.advBidxc.isAdServerLoaded) {
+                    loadScript('//web.archive.org/web/20171231184640/https://www.googletagservices.com/tag/js/gpt.js');
+                    window.advBidxc.isAdServerLoaded = true;
+                }
+            }
+
+            window.advBidxc = window.advBidxc || {};
+            window.advBidxc.renderAd = function () {};
+            window.advBidxc.startTime = new Date().getTime();
+            window.advBidxc.customerId = "8CU2553YN"; //Media.net Customer ID
+            window.advBidxc.timeout = 300;
+            window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout);
+
+            // append index
+            var a = document.createElement("script");
+            a.type = "text/javascript";
+            a.async = true;
+            a.src = indexBid;
+            s.parentNode.insertBefore(a, s);
+
+            // append media.net
+            var b = document.createElement("script");
+            b.type = "text/javascript";
+            b.async = true;
+            b.src = mediaDotNet;
+            s.parentNode.insertBefore(b, s);
+        })();
+    </script>
+<!-- Amazon Bidder version 2 Initialization Script -->
+<script type="text/javascript">
+        //Load the ApsTag JavaScript Library
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//web.archive.org/web/20171231184640/https://c.amazon-adsystem.com/aax2/apstag.js");
+
+        apstag.init({
+            pubID: '3030',
+            adServer: 'googletag'
+        });
+    </script>
+<script id="trending-link-json" type="text/json">
+</script>
+<!--esi
+<script id="user-info-data" type="application/json">
+<esi:include src="/svc/web-products/userinfo-v3.json" />
+</script>
+-->
+<script id="magnum-feature-flags" type="application/json">["limitFabrikSave","moreFollowSuggestions","unfollowComments","scoopTool","videoVHSCover","videoVHSShareTools","videoVHSLive","videoVHSNewControls","videoVHSEmbeddedOnly","allTheEmphases","freeTrial","dedupeWhatsNext","trendingPageLinks","sprinklePaidPost","headerBidder","standardizeWhatsNextCollection","onlyLayoutA","simple","simpleExtendedByline","collectionsWhatsNext","mobileMediaViewer","podcastInLede","MovieTickets","MoreInSubsectionFix","seriesIssueMarginalia","serverSideCollectionUrls","multipleBylines","fabrikWebsocketsOnly","translationLinks","papihttps","verticalFullBleed","updateRestaurantReservations","mapDining","newsletterInlineModule","PersonalizationApiUpdate","apsTagEnabled","removeInternationalEdition","headlineBalancer","clientSideABRA","newsletterTitleTracking","surveyInterstitial","removeFBMessengerPromo","removeMarginaliaAbTest","paidpostSprinklingFix","abraOverrideVersion","headlineBalancerEverywhere","signupFavor","lazyloadOakImages","mapleFreeTrial","adQuerySupportForMultipleUserAddedKeywords","removeSectionDependentAdLogicForJanuary","oakUpdateAdStride","autoPlaceNewsletter","piiBlockDFP","adExclusiveIERibbonCheck","FlexAdDoubleHeightTracking","didScroll","supportedByAdFullBleed","anchorsHttps","oakBylineMargin","TopFlexAdSiteWide","BundlePayFlow","loadArticleOptimizely","oakStyleTouchups","oakBasicHeader","serveOakOnVI","opinionHeadline","indexAsHeaderBidder","newsletterRegiTest","bookReviewBuyButton","caslOpt","sectionBasedAmp","abraInCustomParams","jkiddScript","blueKai","showNewDealbookLogo","commentsUserDataUpdateDisabled"]</script>
+<script>
+var require = {
+    baseUrl: 'http://web.archive.org/web/20171231184640/https://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20171220-112218/js/foundation',
+        'shared': 'article/20171220-112218/js/shared',
+        'article': 'article/20171220-112218/js/article',
+        'application': 'article/20171220-112218/js/article/story',
+        'videoFactory': 'http://web.archive.org/web/20171231184640/https://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'http://web.archive.org/web/20171231184640/https://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'http://web.archive.org/web/20171231184640/https://static01.nyt.com/js/mtr',
+        'auth/growl': 'http://web.archive.org/web/20171231184640/https://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'http://web.archive.org/web/20171231184640/https://static01.nyt.com/video/vhs/build/vhs-2.x.min',
+        'vhs3': 'http://web.archive.org/web/20171231184640/https://static01.nyt.com/video-static/vhs3/vhs.min'
+    },
+    map: {
+        '*': {
+            'story/main': 'article/story/main'
+        }
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="http://web.archive.org/web/20171231184640js_/https://a1.nyt.com/assets/article/20171220-112218/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+    require.map['*']['foundation/main'] = 'foundation/legacy_main';
+</script>
+<script data-main="foundation/legacy_main" src="https://a1.nyt.com/assets/article/20171220-112218/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+    require(['foundation/main'], function () {
+        require(['auth/mtr', 'auth/growl']);
+    });
+    </script>
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script charset="utf-8" src="/static/js/timestamp.js?v=1533593143.0" type="text/javascript"></script>
+<script charset="utf-8" src="/static/js/graph-calc.js?v=1533593143.0" type="text/javascript"></script>
+<script charset="utf-8" src="/static/js/auto-complete.js?v=1533593143.0" type="text/javascript"></script>
+<script charset="utf-8" src="/static/js/toolbar.js?v=1533593143.0" type="text/javascript"></script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+<div style="position:relative;">
+<div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+<a href="/web/" title="Wayback Machine home page"><img alt="Wayback Machine" border="0" height="39" src="/static/images/toolbar/wayback-toolbar-logo.png" width="110"/></a>
+</div>
+<div class="r" style="float:right;">
+<div id="wm-btns" style="text-align:right;height:25px;">
+<div id="wm-save-snapshot-success">success</div>
+<div id="wm-save-snapshot-fail">fail</div>
+<a href="#" id="wm-save-snapshot-open" onclick="__wm.saveSnapshot('https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html', '20171231184640')" title="Share via My Web Archive">
+<span class="iconochive-web"></span>
+</a>
+<a href="https://archive.org/account/login.php" id="wm-sign-in" title="Sign In">
+<span class="iconochive-person"></span>
+</a>
+<span class="iconochive-web" id="wm-save-snapshot-in-progress"></span>
+<a href="http://faq.web.archive.org/" style="top:-6px;" title="Get some help using the Wayback Machine"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+<a href="#close" id="wm-tb-close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+</div>
+<div id="wm-share" style="text-align:right;">
+<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html', '', 'height=400,width=600'); return false;" style="margin-right:5px;" target="_blank" title="Share on Facebook"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html&amp;via=internetarchive', '', 'height=400,width=600'); return false;" style="margin-right:5px;" target="_blank" title="Share on Twitter"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+</div>
+</div>
+<table class="c" style="">
+<tbody>
+<tr>
+<td class="u" colspan="2">
+<form action="/web/submit" id="wmtb" method="get" name="wmtb" target="_top"><input id="wmtbURL" name="url" onfocus="this.focus();this.select();" type="text" value="https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html"/><input name="type" type="hidden" value="replay"/><input name="date" type="hidden" value="20171231184640"/><input type="submit" value="Go"/></form>
+</td>
+<td class="n" rowspan="2" style="width:110px;">
+<table>
+<tbody>
+<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+<tr class="m">
+<td class="b" nowrap="nowrap">Nov</td>
+<td class="c" id="displayMonthEl" title="You are here: 18:46:40 Dec 31, 2017">DEC</td>
+<td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20180209085805/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" title="09 Feb 2018"><strong>Feb</strong></a></td>
+</tr>
+<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+<tr class="d">
+<td class="b" nowrap="nowrap"><img alt="Previous capture" border="0" height="16" src="/static/images/toolbar/wm_tb_prv_off.png" width="14"/></td>
+<td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 18:46:40 Dec 31, 2017">31</td>
+<td class="f" nowrap="nowrap"><a href="http://web.archive.org/web/20180101192542/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" title="19:25:42 Jan 01, 2018"><img alt="Next capture" border="0" height="16" src="/static/images/toolbar/wm_tb_nxt_on.png" width="14"/></a></td>
+</tr>
+<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+<tr class="y">
+<td class="b" nowrap="nowrap">2016</td>
+<td class="c" id="displayYearEl" title="You are here: 18:46:40 Dec 31, 2017">2017</td>
+<td class="f" nowrap="nowrap">2018</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="s">
+<div id="wm-nav-captures">
+<a class="t" href="/web/20171231184640*/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" title="See a list of every capture for this URL">9 captures</a>
+<div class="r" title="Timespan for captures of this URL">31 Dec 2017 - 09 Feb 2018</div>
+</div>
+</td>
+<td class="k">
+<a href="" id="wm-graph-anchor">
+<div id="wm-ipp-sparkline" style="position: relative" title="Explore captures for this URL">
+<canvas border="0" height="27" id="wm-sparkline-canvas" width="575"></canvas>
+</div>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="position:absolute;bottom:0;right:2px;text-align:right;">
+<a class="wm-btn wm-closed" href="#expand" id="wm-expand" onclick="__wm.ex(event);return false;"><span class="iconochive-down-solid" id="wm-expand-icon"></span> <span style="font-size:80%">About this capture</span></a>
+</div>
+</div>
+<div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+<div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+<div id="wm-collected-by-content" style="padding:3px;position:relative">
+<div style="display:inline-block;vertical-align:top;width:50%;">
+<span class="c-logo" style="background-image:url(https://archive.org/services/img/focused_crawls);"></span>
+		Organization: <a href="https://archive.org/details/focused_crawls" style="color:#33f;" target="_new"><span class="wm-title">Internet Archive</span></a>
+<div style="max-height:75px;overflow:hidden;position:relative;">
+<div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Focused crawls are collections of frequently-updated webcrawl data from narrow (as opposed to broad or wide) web crawls, often focused on a single domain or subdomain.<br/>
+</div>
+</div>
+<div style="display:inline-block;vertical-align:top;width:49%;">
+<span class="c-logo" style="background-image:url(https://archive.org/services/img/global.nytimes.com)"></span>
+<div>Collection: <a href="https://archive.org/details/global.nytimes.com" style="color:#33f;" target="_new"><span class="wm-title">global.nytimes.com</span></a></div>
+</div>
+</div>
+<div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+<div>
+<div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+<div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img alt="loading" src="/static/images/loading.gif"/></div>
+</div>
+</div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html","2017-12-31",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<style>
+    .lt-ie10 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie10 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie10 .messenger.suggestions .alert-icon {
+        background: url('http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie10 .masthead,
+    .lt-ie10 .navigation,
+    .lt-ie10 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie10 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div class="suggestions messenger nocontent robots-nocontent" id="suggestions" style="display:none;">
+<div class="message-bed">
+<div class="message-container last-message-container">
+<div class="message">
+<span class="message-content">
+<i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.</span>
+<a class="action-link" href="http://web.archive.org/web/20171231184640/http://www.nytimes.com/content/help/site/ie9-support.html">LEARN MORE »</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="shell" id="shell">
+<header class="masthead masthead-theme-standard" id="masthead" role="banner">
+<div class="container">
+<div class="quick-navigation button-group">
+<button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+<button class="button home-button" data-href="https://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+<span class="button-text">Home</span>
+</button>
+<button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+<a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a>
+<a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+<a class="button skip-button skip-to-mobile visually-hidden focusable" href="http://web.archive.org/web/20171231184640/http://mobile.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html">View mobile version</a>
+</div><!-- close button-group -->
+<div class="branding">
+<h2 class="branding-heading">
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/" id="branding-heading-link">
+<span class="visually-hidden">The New York Times</span>
+</a>
+</h2>
+<script>window.magnum.writeLogo('small', 'http://web.archive.org/web/20171231184640/https://a1.nyt.com/assets/article/20171220-112218/images/foundation/logos/', 'world', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'article');</script>
+</div><!-- close branding -->
+<div class="story-meta">
+<h6 class="kicker"><span class="kicker-label"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/pages/world/europe/index.html">Europe</a></span><span class="pipe">|</span>Greek Prime Minister Seeks to Block Asylum for Turkish Officer</h6>
+</div><!-- close story-meta -->
+<div class="user-tools">
+<div class="ad bar1-ad nocontent robots-nocontent" id="Bar1"></div>
+<div class="hidden" id="liftoff-nyt5-bar1"></div>
+<div aria-label="tools" class="sharetools theme-classic sharetools-masthead " data-author="By NIKI KITSANTONIS" data-description="In an apparent effort to avoid antagonizing Turkey, Greece’s prime minister moved to block asylum for a Turkish officer who fled last year’s failed coup." data-media="https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-jumbo.jpg" data-publish-date="December 30, 2017" data-shares="facebook,twitter,email,show-all,save" data-title="Greek Prime Minister Seeks to Block Asylum for Turkish Officer" data-url="http://web.archive.org/web/20171231184640oe_/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" id="sharetools-masthead" role="group">
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+</div>
+</div><!-- close shareTools -->
+<button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+<div class="user-tools-button-group button-group">
+<button class="button subscribe-button hidden" data-href="https://www.nytimes.com/subscriptions/Multiproduct/lp3004.html?campaignId=4XUYF">Subscribe Now</button>
+<button class="button login-button login-modal-trigger hidden">Log In</button>
+<button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+<button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+</div><!-- close user-tools-button-group -->
+</div><!-- close user-tools -->
+</div><!-- close container -->
+<div class="search-flyout-panel flyout-panel">
+<button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+<nav class="search-form-control form-control layout-horizontal">
+<h2 class="visually-hidden">Site Search Navigation</h2>
+<form class="search-form" role="search">
+<div class="control">
+<div class="label-container visually-hidden">
+<label for="search-input">Search NYTimes.com</label>
+</div>
+<div class="field-container">
+<input autocomplete="off" class="search-input text" id="search-input" name="search-input" placeholder="Search NYTimes.com" type="text"/>
+<button aria-describedby="clear-search-input" class="button clear-button" tabindex="-1" type="button"><i class="icon"></i><span class="visually-hidden" id="clear-search-input">Clear this text input</span></button>
+<div class="auto-suggest" style="display: none;">
+<ol></ol>
+</div>
+<button class="button submit-button" type="submit">Go</button>
+</div>
+</div><!-- close control -->
+</form>
+</nav>
+</div><!-- close flyout-panel -->
+<div class="notification-modals" id="notification-modals"></div>
+<span class="story-short-url"><a href="http://web.archive.org/web/20171231184640/https://nyti.ms/2q2SN8E">https://nyti.ms/2q2SN8E</a></span></header>
+<nav aria-hidden="true" class="ribbon ribbon-start nocontent robots-nocontent" id="ribbon">
+<div class="nocontent robots-nocontent">
+<ol class="ribbon-menu">
+<li class="collection ribbon-loader">
+<div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+</li>
+</ol>
+<div class="ribbon-navigation-container">
+<nav class="ribbon-navigation next">
+<span class="visually-hidden">See next articles</span>
+<div class="arrow arrow-right">
+<div class="arrow-conceal"></div>
+</div>
+</nav>
+<nav class="ribbon-navigation previous">
+<span class="visually-hidden">See previous articles</span>
+<div class="arrow arrow-left">
+<div class="arrow-conceal"></div>
+</div>
+</nav>
+</div>
+</div><!-- close nocontent -->
+</nav>
+<script type="text/javascript">
+(function () {
+    var ribbon;
+    if (window.magnum.getFlags().indexOf('adAggro') !== -1 &&
+        (window.NYTD.Abra('www-story-pro-agro') !== 'control' &&
+        window.NYTD.Abra('www-story-pro-agro') !== null &&
+        window.NYTD.Abra('www-story-pro-agro') !== 'null' &&
+        window.NYTD.Abra('www-story-pro-agro') !== '')) {
+        ribbon = document.querySelector('#ribbon');
+        if (ribbon && ribbon.parentNode) {
+            ribbon.parentNode.removeChild(ribbon);
+        }
+    }
+})();
+</script>
+<nav class="navigation" id="navigation">
+<h2 class="visually-hidden">Site Navigation</h2>
+</nav><!-- close navigation -->
+<nav class="mobile-navigation hidden" id="mobile-navigation">
+<h2 class="visually-hidden">Site Mobile Navigation</h2>
+</nav><!-- close mobile-navigation -->
+<div class="navigation-edge" id="navigation-edge"></div>
+<div class="page" id="page">
+<div class="ad top-ad nocontent robots-nocontent" id="TopAd">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+</div>
+<main class="main" id="main" role="main">
+<article class="story theme-main " id="story">
+<div class="ad tragedy-ad nocontent robots-nocontent" id="TragedyAd"></div>
+<header class="story-header" id="story-header">
+<div class="story-meta " id="story-meta">
+<div class="supported-by hidden nocontent robots-nocontent">
+<span class="ad-label">Supported by</span>
+<div class="supported-by-ad ad" id="supported-by-ad"></div>
+</div>
+<h3 class="kicker" id="kicker" role="kicker">
+<span class="kicker-label"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/pages/world/europe/index.html">Europe</a></span>
+</h3>
+<h1 class="headline" id="headline" itemprop="headline">Greek Prime Minister Seeks to Block Asylum for Turkish Officer</h1>
+<div class="story-meta-footer" id="story-meta-footer">
+<p class="byline-dateline"><span class="byline" itemprop="author creator" itemscope="" itemtype="http://schema.org/Person">By <span class="byline-author" data-byline-name="NIKI KITSANTONIS" data-twitter-handle="NikiKitsantonis" itemprop="name">NIKI KITSANTONIS</span></span><time class="dateline" content="2017-12-31T10:15:08-05:00" datetime="2017-12-31T10:15:08-05:00" itemprop="dateModified">DEC. 30, 2017</time>
+</p>
+<div class="story-meta-footer-sharetools">
+<div aria-label="tools" class="sharetools theme-classic sharetools-story-meta-footer " data-author="By NIKI KITSANTONIS" data-description="In an apparent effort to avoid antagonizing Turkey, Greece’s prime minister moved to block asylum for a Turkish officer who fled last year’s failed coup." data-media="https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-jumbo.jpg" data-publish-date="December 30, 2017" data-shares="facebook,twitter,email,show-all,save" data-title="Greek Prime Minister Seeks to Block Asylum for Turkish Officer" data-url="http://web.archive.org/web/20171231184640oe_/https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" id="sharetools-story-meta-footer" role="group">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+<span class="sharetools-label visually-hidden">Share This Page</span>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+</div><!-- close shareTools -->
+</div>
+</div><!-- close story-meta-footer -->
+</div><!-- close story-meta -->
+</header>
+<script type="text/javascript">
+        if (
+            window.magnum
+            && window.magnum.getFlags().indexOf('headlineBalancer') > 0
+            && window.magnum.headlineBalancer
+            && window.magnum.headlineBalancer.initialize
+            && window.magnum.headlineBalancer.shouldRun()
+        ) {
+            window.magnum.headlineBalancer.initialize();
+        }
+    </script>
+<div class="story-body-supplemental">
+<div class="story-body story-body-1">
+<figure aria-label="media" class="media photo lede layout-large-horizontal" data-media-action="modal" id="media-100000005632581" itemid="https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-master768.jpg" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" role="group">
+<span class="visually-hidden">Photo</span>
+<div class="image">
+<img alt="" class="media-viewer-candidate" data-mediaviewer-caption="Prime Minister Alexis Tsipras of Greece, left, welcomes President Recep Tayyip Erdogan of Turkey during Mr. Erdogan’s two-day visit to Greece this month." data-mediaviewer-credit="Louisa Gouliamaki/Agence France-Presse — Getty Images" data-mediaviewer-src="http://web.archive.org/web/20171231184640/https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-superJumbo.jpg" itemid="https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-master768.jpg" itemprop="url" src="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-master768.jpg"/>
+<meta content="512" itemprop="height"/>
+<meta content="768" itemprop="width"/>
+</div>
+<figcaption class="caption" itemprop="caption description">
+<span class="caption-text">Prime Minister Alexis Tsipras of Greece, left, welcomes President Recep Tayyip Erdogan of Turkey during Mr. Erdogan’s two-day visit to Greece this month.</span>
+<span class="credit" itemprop="copyrightHolder">
+<span class="visually-hidden">Credit</span>
+            Louisa Gouliamaki/Agence France-Presse — Getty Images        </span>
+</figcaption>
+</figure>
+<script type="text/javascript">
+(function () {
+        var figure, fragment, storyHeader;
+        var html, header, headline, storyMeta, mediaActionOverlay, supportedBy;
+        var story = document.getElementById('story');
+        var adAggro = window.magnum.getFlags().indexOf('adAggro') !== -1 &&
+            (window.NYTD.Abra('www-story-pro-agro') === 'pro-10' ||
+            window.NYTD.Abra('www-story-pro-agro') === 'pro-8' ||
+            window.NYTD.Abra('www-story-pro-agro') === 'pro-6' ||
+            window.NYTD.Abra('www-story-pro-agro') === 'pro-4');
+        var adAggro2 = window.magnum.getFlags().indexOf('story1427AdAggro') !== -1 &&
+            (window.NYTD.Abra('www-story-1427-ad-aggro') === 'pro-10' ||
+            window.NYTD.Abra('www-story-1427-ad-aggro') === 'pro-8' ||
+            window.NYTD.Abra('www-story-1427-ad-aggro') === 'pro-6' ||
+            window.NYTD.Abra('www-story-1427-ad-aggro') === 'pro-4');
+
+        if ((adAggro || adAggro2) &&
+            document.documentElement.className.indexOf('article-has-layout-large-horizontal') === -1
+        ) {
+                // only run this test if it's large or jumbo horizontal lede media
+                figure = document.querySelectorAll('.lede.photo')[0];
+                if (figure.className.indexOf('layout-large-horizontal') === -1 && figure.className.indexOf('layout-jumbo-horizontal') === -1) {
+                    require(['foundation/main'], function (main) {
+                        require(['foundation/tracking/tracking-mixin'], function (tracking) {
+                            tracking.trackingTriggerRaw(
+                                'not-running-pro-topper-ad-test',
+                                {
+                                    'module': 'not-running-pro-topper-ad-test',
+                                    'region': 'not-running-pro-topper-ad-test'
+                                },
+                                'interaction'
+                            );
+                        });
+                    });
+
+                    return;
+                }
+                document.documentElement.className += ' article-has-layout-large-horizontal';
+
+                // delete supported by
+                supportedBy = document.querySelectorAll('.supported-by')[0];
+                if (supportedBy) {
+                        supportedBy.parentNode.removeChild(supportedBy);
+                }
+
+                fragment = document.createDocumentFragment(); // this will be the top ad
+                fragment.appendChild(document.getElementById('TopAd'));
+
+                storyHeader = document.getElementById('story-header');
+                if (storyHeader.nextSibling) {
+                  storyHeader.parentNode.insertBefore(fragment, storyHeader.nextSibling);
+                }
+                else {
+                  storyHeader.parentNode.appendChild(fragment);
+                }
+
+                document.getElementById('TopAd').style.display = 'block';
+                document.getElementById('TopAd').style.marginBottom = '45px';
+        } // end ad if
+
+
+        if ((adAggro || adAggro2) &&
+            document.documentElement.className.indexOf('article-has-layout-large-horizontal') !== -1
+        ) {
+
+                html = document.documentElement;
+                header = document.getElementById('story-header');
+                figure = document.querySelectorAll('.lede.photo')[0];
+                headline = document.getElementById('headline');
+                storyMeta = document.getElementById('story-meta');
+
+                mediaActionOverlay = figure.getElementsByClassName("media-action-overlay")[0];
+
+                html.className += ' has-cover-media';
+
+                story.className += " has-headline-image-topper bleed-align-left";
+
+                header.appendChild(figure);
+
+            if (window.magnum.getFlags().indexOf('story1427AdAggroTracking') !== -1) {
+                require(['foundation/main'], function (main) {
+                    require(['foundation/tracking/tracking-mixin'], function (tracking) {
+                        tracking.trackingTriggerRaw(
+                            'running-pro-topper-ad-test',
+                            {
+                                'module': 'running-pro-topper-ad-test',
+                                'region': 'running-pro-topper-ad-test'
+                            },
+                            'interaction'
+                        );
+                    });
+                });
+            }
+
+        }
+})();
+</script>
+<p class="story-body-text story-content" data-para-count="312" data-total-count="312">ATHENS — An independent Greek government committee decided on Saturday to grant political asylum to a Turkish officer who fled last year’s failed coup in his country. The decision provoked an immediate angry response from Turkey, and hours later the Greek prime minister’s administration moved to block it.</p><p class="story-body-text story-content" data-para-count="182" data-total-count="494">The officer was one of eight Turkish soldiers who fled to Greece in a military helicopter in July 2016 after the Turkish president, Recep Tayyip Erdogan, thwarted the attempted coup.</p><p class="story-body-text story-content" data-para-count="285" data-total-count="779">On Saturday, the Greek committee for asylum requests ruled in favor of granting the officer asylum after determining there was no evidence implicating him in the coup. It also said the human rights situation in Turkey raised questions about his safety should he return to his homeland.</p><p class="story-body-text story-content" data-para-count="83" data-total-count="862">The committee has yet to rule on the other seven, who have also applied for asylum.</p><p class="story-body-text story-content" data-para-count="409" data-total-count="1271">The office of Prime Minister Alexis Tsipras moved immediately to file an appeal against the decision, in an apparent effort to avoid further antagonizing Turkey. The committee’s decision put Mr. Tsipras in a difficult political position: While the prime minister has said that Greece does not support those involved in the coup, he has also voiced support for the independence of Greece’s judicial system.</p><div class="story-ad ad ad-placeholder nocontent robots-nocontent " id="story-ad-1">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="199" data-total-count="1470" id="story-continues-1">The appeal was in line with the government’s “firm position regarding the eight servicemen, as it has been repeatedly and publicly expressed,” the prime minister’s office said in a statement.</p><div aria-labeledby="newsletter-promo-heading" class="newsletter-signup hidden auto-newsletter variant-1-hidden " data-newsletter-productcode="" data-newsletter-producttitle="" id="newsletter-promo">
+<h2 class="visually-hidden" id="newsletter-promo-heading">Newsletter Sign Up</h2>
+<a class="visually-hidden skip-to-text-link" href="#continues-post-newsletter">Continue reading the main story</a>
+<script id="auto-newsletter-rules" type="application/json">[{"headline":"The Interpreter Newsletter","summary":"Understand the world with sharp insight and commentary on the major news stories of the week.","product-code":"INT","product-title":"The Interpreter","sample-url":"http:\/\/web.archive.org\/web\/20171231184640\/http:\/\/www.nytimes.com\/newsletters\/sample\/the-interpreter?pgtype=subscriptionspage&version=new&contentId=INT&eventName=sample&module=newsletter-sign-up"},{"headline":"Morning Briefing","summary":"Get what you need to know to start your day in the United States, Canada and the Americas, delivered to your inbox.","product-code":"NN","product-title":"Morning Briefing","sample-url":"http:\/\/web.archive.org\/web\/20171231184640\/http:\/\/www.nytimes.com\/newsletters\/sample\/morning-briefing?pgtype=subscriptionspage&version=new&contentId=NN&eventName=sample&module=newsletter-sign-up"},{"headline":"Breaking News","summary":"Sign up to receive an email from The New York Times as soon as important news breaks around the world.","product-code":"NA","product-title":"Breaking News Alerts"}]</script>
+<h3 class="headline"></h3> <p class="summary"></p> <form autocomplete="off" class="newsletter-form" method="post" name="regilite">
+<div class="control input-control">
+<div class="form-errors">
+<p class="error captcha-error hidden">Please verify you're not a robot by clicking the box.</p>
+<p class="error invalid-email-error hidden">Invalid email address. Please re-enter.</p>
+<p class="error buffet-error hidden">You must select a newsletter to subscribe to.</p>
+</div>
+<div class="field-container">
+<input aria-required="true" class="email-input" id="email" name="email" placeholder="Enter your email address" type="email" value=""/>
+<button class="button submit-button" id="submit-button" type="submit">Sign Up</button>
+</div>
+</div><!-- close control -->
+<div class="control checkbox-control">
+<div class="field-container">
+<input class="checkbox" id="special-offers" name="special-offers" type="checkbox" value="MM"/>
+</div>
+<div class="label-container">
+<label class="checkbox-label" for="special-offers">You agree to receive occasional updates and special offers for The New York Times's products and services.</label>
+</div>
+</div><!-- close control -->
+<div class="g-recaptcha" data-sitekey="6LeN0R4TAAAAACwPa5WX2QYE0npOf2-2veTOm2Tp" id="captcha-container"></div>
+</form>
+<div class="messages">
+<h3 class="success-message hidden">Thank you for subscribing.</h3>
+<h3 class="error submit-error hidden">An error has occurred. Please try again later.</h3>
+<h3 class="subscriber hidden">You are already subscribed to this email.</h3>
+<p class="view-all-link hidden"><a href="/web/20171231184640/https://www.nytimes.com/newsletters" target="_blank">View all New York Times newsletters.</a></p>
+</div><!-- close messages -->
+<ul class="footer">
+<li class="sample" id="sample-newsletter-link"><a href="" target="_blank">See Sample</a></li>
+<li class="manage-email"><a href="/web/20171231184640/https://www.nytimes.com/mem/email.html" target="_blank">Manage Email Preferences</a></li>
+<li class="logout hidden"><a href="/web/20171231184640/https://www.nytimes.com/logout" target="_blank">Not you?</a></li>
+<li class="privacy"><a href="/web/20171231184640/https://www.nytimes.com/privacy" target="_blank">Privacy Policy</a></li>
+<li class="contact">Opt out or <a href="/web/20171231184640/https://www.nytimes.com/help/index.html" target="_blank">contact us</a> anytime</li>
+</ul><!-- close footer -->
+<script async="async" defer="defer" src="http://web.archive.org/web/20171231184640js_/https://www.google.com/recaptcha/api.js"></script>
+</div>
+<div id="#continues-post-newsletter"></div>
+<p class="story-body-text story-content" data-para-count="321" data-total-count="1791">Turkey’s Foreign Ministry on Saturday described the decision as “politically motivated” and warned that it would hurt relations between the two countries. Greece “failed to show the support and cooperation we expect from an ally in the fight against terrorism and criminality,” the ministry said in a statement.</p><p class="story-body-text story-content" data-para-count="371" data-total-count="2162">During <a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/12/07/world/europe/erdogan-greece-turkey-visit.html">an official visit to Greece</a> earlier this month, the first by a Turkish head of state in 65 years, Mr. Erdogan called for the extradition of the eight men, noting that Turkey is “not a country that tortures detainees.” He has also said that Mr. Tsipras had promised him the servicemen would be returned to Turkey just a few days after they landed on Greek soil.</p> <a class="visually-hidden skip-to-text-link" href="#story-continues-2">Continue reading the main story</a>
+</div><!-- close story-body -->
+<div class="supplemental first" id="supplemental-1">
+</div><!-- close supplemental -->
+</div><!-- close story-body-supplemental -->
+<div class="story-interrupter" id="story-continues-2">
+<div class="ad flex-ad nocontent robots-nocontent" id="FlexAd">
+<div class="accessibility-ad-header visually-hidden">
+<p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-3">Continue reading the main story</a>
+<div class="flex-ad-creative"></div>
+</div>
+</div>
+<div class="story-body-supplemental">
+<div class="story-body story-body-2">
+<p class="story-body-text story-content" data-para-count="443" data-total-count="2605" id="story-continues-3">By appealing the decision, Mr. Tsipras may be trying to avoid another political clash between the two neighbors, who have been divided by territorial disputes and ill will left over from the Turkish Ottoman Empire’s nearly 400-year occupation of Greece, which ended a century ago. Mr. Erdogan’s visit did little to improve relations between Turkey and Greece, which went to the brink of war in 1996 over a disputed islet in the Aegean Sea.</p> <a class="visually-hidden skip-to-text-link" href="#whats-next">Continue reading the main story</a>
+</div><!-- close story-body -->
+<div class="supplemental " id="supplemental-2">
+</div><!-- close supplemental -->
+</div><!-- close story-body-supplemental -->
+<div class="reader-satisfaction-survey prompt feedback-prompt story-content hidden">
+<a class="feedback-link" href="http://web.archive.org/web/20171231184640/https://docs.google.com/forms/d/e/1FAIpQLSfLW30xgZodF1qRAg80oWEGuDpW-1HHaL0g42G3SmvB2f4lCw/viewform?entry.8537735=https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html" target="_blank">
+<p class="feedback-message">We’re interested in your feedback on this page. <strong>Tell us what you think.</strong></p>
+</a>
+</div>
+<div class="hidden" id="storage-drawer">
+<div class="supplemental-sub-item" data-attribute-name="CombinedMarginalia" data-attribute-position="0" data-attribute-subtype="" data-attribute-type="Related">
+<aside class="marginalia related-combined-coverage-marginalia marginalia-item nocontent robots-nocontent" data-marginalia-type="sprinkled" module="Related-CombinedMarginalia" role="complementary">
+<div class="nocontent robots-nocontent">
+<header>
+<h2 class="module-heading">Related Coverage</h2>
+</header>
+<ul>
+<li><article class="story theme-summary ">
+<a class="story-link" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/10/04/world/europe/turkey-erdogan-coup-marmaris-trial.html">
+<div class="thumb">
+<img alt="" role="presentation" src="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/10/05/world/05turkey/05turkey-thumbStandard.jpg"/>
+<div class="media-action-overlay"></div>
+</div>
+<div class="story-body">
+<h2 class="headline">
+<span class="title">Turkey Sentences 40 to Life in Coup Attempt Against Erdogan</span>
+<time class="dateline">OCT. 4, 2017</time>
+</h2>
+</div>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary ">
+<a class="story-link" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/07/16/world/europe/turkey-recep-tayyip-erdogan-rally-coup.html">
+<div class="thumb">
+<img alt="" role="presentation" src="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/07/17/world/europe/17TURKEY-img2/erdogan-img2-thumbStandard-v2.jpg"/>
+<div class="media-action-overlay"></div>
+</div>
+<div class="story-body">
+<h2 class="headline">
+<span class="title">Erdogan and Supporters Stage Rally on Anniversary of Failed Coup</span>
+<time class="dateline">JULY 16, 2017</time>
+</h2>
+</div>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary ">
+<a class="story-link" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/02/01/world/europe/turkey-and-greece-trade-jabs-in-island-dispute.html">
+<div class="thumb">
+<img alt="" role="presentation" src="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/02/02/world/02Islets/02Islets-thumbStandard.jpg"/>
+<div class="media-action-overlay"></div>
+</div>
+<div class="story-body">
+<h2 class="headline">
+<span class="title">Turkey and Greece Trade Jabs in Island Dispute</span>
+<time class="dateline">FEB. 1, 2017</time>
+</h2>
+</div>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</aside>
+</div>
+<div class="supplemental-sub-item" data-attribute-name="PaidPost" data-attribute-position="1" data-attribute-subtype="" data-attribute-type="PaidPost">
+<aside class="ad middle-right-ad paid-post-ad marginalia-item hidden nocontent robots-nocontent" id="middle-right-paid-post-container">
+<h2 class="marginalia-heading"></h2>
+<ul class="story-menu">
+<li class="story-menu-item ad" id="MiddleRightPaidPost1"></li>
+<li class="story-menu-item ad" id="MiddleRightPaidPost2"></li>
+<li class="story-menu-item ad" id="MiddleRightPaidPost3"></li>
+<li class="story-menu-item ad" id="MiddleRightPaidPost4"></li>
+</ul>
+</aside>
+</div>
+</div>
+</article>
+<section class="related-combined-coverage nocontent robots-nocontent" id="related-combined-coverage">
+<header class="section-header">
+<h2 class="section-heading">Related Coverage</h2>
+</header>
+<div class="section-body">
+<ol class="story-menu menu">
+<li><article class="story theme-summary ">
+<a class="story-link" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/10/04/world/europe/turkey-erdogan-coup-marmaris-trial.html">
+<div class="story-body">
+<h2 class="headline">
+<span class="title">Turkey Sentences 40 to Life in Coup Attempt Against Erdogan</span>
+<time class="dateline">OCT. 4, 2017</time>
+</h2>
+</div>
+<div class="thumb">
+<img alt="" role="presentation" src="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/10/05/world/05turkey/05turkey-thumbStandard.jpg"/>
+<div class="media-action-overlay"></div>
+</div>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary ">
+<a class="story-link" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/07/16/world/europe/turkey-recep-tayyip-erdogan-rally-coup.html">
+<div class="story-body">
+<h2 class="headline">
+<span class="title">Erdogan and Supporters Stage Rally on Anniversary of Failed Coup</span>
+<time class="dateline">JULY 16, 2017</time>
+</h2>
+</div>
+<div class="thumb">
+<img alt="" role="presentation" src="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/07/17/world/europe/17TURKEY-img2/erdogan-img2-thumbStandard-v2.jpg"/>
+<div class="media-action-overlay"></div>
+</div>
+</a>
+</article>
+</li>
+<li><article class="story theme-summary ">
+<a class="story-link" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/2017/02/01/world/europe/turkey-and-greece-trade-jabs-in-island-dispute.html">
+<div class="story-body">
+<h2 class="headline">
+<span class="title">Turkey and Greece Trade Jabs in Island Dispute</span>
+<time class="dateline">FEB. 1, 2017</time>
+</h2>
+</div>
+<div class="thumb">
+<img alt="" role="presentation" src="http://web.archive.org/web/20171231184640im_/https://static01.nyt.com/images/2017/02/02/world/02Islets/02Islets-thumbStandard.jpg"/>
+<div class="media-action-overlay"></div>
+</div>
+</a>
+</article>
+</li>
+</ol>
+</div>
+</section>
+<!-- While running BundlePayFlow test, hide this module if user is in test) -->
+<script type="text/javascript">
+            if (window.NYTD && window.NYTD.Abra && window.NYTD.Abra('www-STORY_3bundlePayflow-v3') === '1') {
+            (function() {
+                require(['foundation/main'], function () {
+                    require(['jquery/nyt', 'foundation/models/user-data'], function ($, userData) {
+                        if (!userData.hasSynced) {
+                            userData.on('change', function() {
+                               checkSubStatus();
+                            });
+                        } else {
+                            checkSubStatus();
+                        }
+
+                        function checkSubStatus() {
+                            if (!userData.isHomeDeliverySubscriber() &&
+                                !userData.isWebSubscriber() &&
+                                !userData.isMobileSubscriber() &&
+                                !userData.isTabletSubscriber()) {
+                                    var relatedCoverage = document.querySelector('.related-combined-coverage');
+                                    if (relatedCoverage && relatedCoverage.parentNode) {
+                                        relatedCoverage.parentNode.removeChild(relatedCoverage);
+                                    }
+                            }
+                        }
+                    });
+                });
+            })();
+        }
+    </script>
+<aside class="module trending-module hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside><section class="whats-next nocontent robots-nocontent" id="whats-next">
+<h2 class="visually-hidden">What's Next</h2>
+<div class="nocontent robots-nocontent">
+<div class="loader-container">
+<div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+</div>
+</div><!-- close nocontent -->
+</section>
+<div class="text-ad bottom-left-ad nocontent robots-nocontent" id="TopAd1"></div>
+<div class="ad top5-ad hidden nocontent robots-nocontent" id="Top5"></div>
+<section class="module bundle-payflow-module"> <div class="bundle-payflow hidden"></div> <!-- end bundle-payflow -->
+</section>
+<div class="search-overlay"></div>
+</main><!-- close main -->
+<section class="site-index" id="site-index">
+<header class="section-header">
+<p class="user-action"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/">Go to Home Page »</a></p>
+<h2 class="section-heading">
+<span class="visually-hidden">Site Index</span>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/" id="site-index-branding-link">
+<span class="visually-hidden">The New York Times</span>
+</a>
+</h2>
+<script>window.magnum.writeLogo('small', 'http://web.archive.org/web/20171231184640/https://a1.nyt.com/assets/article/20171220-112218/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');</script>
+</header>
+<nav class="site-index-navigation" id="site-index-navigation" role="navigation">
+<h2 class="visually-hidden">Site Index Navigation</h2>
+<div class="split-6-layout layout">
+<div class="column">
+<h3 class="menu-heading">News</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/world">World</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/us">U.S.</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/politics">Politics</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/nyregion">N.Y.</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/business">Business</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/technology">Tech</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/science">Science</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/health">Health</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/sports">Sports</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/education">Education</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/obituaries">Obituaries</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/corrections">Corrections</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Opinion</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/opinion/columnists">Op-Ed Columnists</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/opinion/editorials">Editorials</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/opinion/contributors">Op-Ed Contributors</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/opinion/letters">Letters</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/opinion/sunday">Sunday Review</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/video/opinion">Video: Opinion</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Arts</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/arts">Today's Arts</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/arts/design">Art &amp; Design</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/books">Books</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/arts/dance">Dance</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/movies">Movies</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/arts/music">Music</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/arts/television">Television</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/theater">Theater</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/video/arts">Video: Arts</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Living</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/automobiles">Automobiles</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/crosswords">Crossword</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/pages/dining/index.html">Food</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/education">Education</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/fashion">Fashion &amp; Style</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/health">Health</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/jobs">Jobs</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/magazine">Magazine</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/realestate">Real Estate</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/t-magazine">T Magazine</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/travel">Travel</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/fashion/weddings">Weddings &amp; Celebrations</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column">
+<h3 class="menu-heading">Listings &amp; More</h3>
+<ul class="menu">
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/reader-center">Reader Center</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/ref/classifieds/">Classifieds</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/marketing/tools-and-services/">Tools &amp; Services</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/section/multimedia">Multimedia</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://lens.blogs.nytimes.com/">Photography</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/video">Video</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://store.nytimes.com/?action=click&amp;contentCollection=NYT%20Store&amp;contentPlacement=2&amp;module=SectionsNav&amp;pgtype=Homepage&amp;region=TopBar&amp;t=qry542&amp;utm_campaign=NYT-HP&amp;utm_content=hp_browsetree&amp;utm_medium=HPB&amp;utm_source=nytimes&amp;version=BrowseTree">NYT Store</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/times-journeys/?utm_source=nytimes&amp;utm_medium=HPLink&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP">Times Journeys</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/seeallnav">Subscribe</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/membercenter">Manage My Account</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/http://www.nytco.com/">NYTCo</a>
+</li>
+</ul>
+</div><!-- close column -->
+<div class="column last-column">
+<h3 class="menu-heading">Subscribe</h3>
+<ul class="menu primary-menu">
+<li class="menu-label">Subscribe</li>
+<li class="home-delivery">
+<i class="icon sprite-icon"></i>
+<a class="nyt-home-delivery" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/hdleftnav">Home Delivery</a>
+</li>
+<li class="digital-subscriptions">
+<i class="icon sprite-icon"></i>
+<a class="digital-subscription" href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+</li>
+<li class="nyt-crossword last-item">
+<i class="icon sprite-icon"></i>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/crosswords/index.html" id="nyt-crossword">Crossword</a>
+</li>
+</ul>
+<ul class="menu secondary-menu">
+<li class="email-newsletters">
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+</li>
+<li class="gift-subscription">
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/corporateleftnav">Group Subscriptions</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/educationleftnav">Education Rate</a>
+</li>
+</ul>
+<ul class="menu secondary-menu">
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+</li>
+<li>
+<a href="http://web.archive.org/web/20171231184640/http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+</li>
+</ul>
+</div><!-- close column -->
+</div><!-- close split-6-layout -->
+</nav><!-- close nav -->
+</section><!-- close site-index -->
+<footer class="page-footer" id="page-footer" role="contentinfo">
+<nav>
+<h2 class="visually-hidden">Site Information Navigation</h2>
+<ul>
+<li>
+<a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    © <span itemprop="copyrightYear">2017</span><span itemid="http://www.nytimes.com" itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name"> The New York Times Company</span><meta content="NYSE NYT" itemprop="tickerSymbol"/></span>
+</a>
+</li>
+<li class="visually-hidden"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/">Home</a></li>
+<li class="visually-hidden"><a href="http://web.archive.org/web/20171231184640/http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+<li class="visually-hidden">Accessibility concerns? Email us at <a href="http://web.archive.org/web/20171231184640/mailto:accessibility@nytimes.com">accessibility@nytimes.com</a>. We would love to hear from you.</li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184640/http://www.nytco.com/careers">Work With Us</a></li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184640/http://nytmediakit.com/">Advertise</a></li>
+<li class="wide-viewport-item"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+<li><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/privacy">Privacy</a></li>
+<li><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+<li class="wide-viewport-item last-item"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+</ul>
+</nav>
+<nav class="last-nav">
+<h2 class="visually-hidden">Site Information Navigation</h2>
+<ul>
+<li><a href="http://web.archive.org/web/20171231184640/http://spiderbites.nytimes.com/">Site Map</a></li>
+<li><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+<li><a href="http://web.archive.org/web/20171231184640/https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+<li class="wide-viewport-item last-item"><a href="http://web.archive.org/web/20171231184640/https://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+</ul>
+</nav>
+</footer>
+</div><!-- close page -->
+</div><!-- close shell -->
+<script async="" src="http://web.archive.org/web/20171231184640js_/https://tags.bluekai.com/site/50550?ret=js&amp;limit=1" type="text/javascript"></script>
+<script async="" src="http://web.archive.org/web/20171231184640js_/https://cdn.optimizely.com/public/3013110282/s/article_prod.js" type="text/javascript"></script>
+<script>
+require(['foundation/main'], function () {
+    require(['story/main']);
+
+
+         
+
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['http://web.archive.org/web/20171231184640/https://a1.nyt.com/analytics/json-kidd.min.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+<!--esi                                                                                                                    
+<esi:include src="/appconfig/https/show-modal.js" />                                                                       
+-->
+<div class="ad inv1-ad hidden" id="Inv1"></div>
+<div class="ad inv2-ad hidden" id="Inv2"></div>
+<div class="ad inv3-ad hidden" id="Inv3"></div>
+<div class="ad ab1-ad hidden" id="ab1"></div>
+<div class="ad ab2-ad hidden" id="ab2"></div>
+<div class="ad ab3-ad hidden" id="ab3"></div>
+<div class="ad prop1-ad hidden" id="prop1"></div>
+<div class="ad prop2-ad hidden" id="prop2"></div>
+<div class="ad anchor-ad hidden" id="Anchor"></div>
+<div class="ad adx-clientside-ad hidden" id="ADX_CLIENTSIDE"></div>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 18:46:40 Dec 31, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:33:05 Sep 06, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
