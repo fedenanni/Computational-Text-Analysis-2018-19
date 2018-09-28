@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 *Icon*
+*.ipynb_checkpoints*
 
 .DS_Store
 
