@@ -1,1 +1,3 @@
-Advertisement         By JEN A. MILLER  DEC. 1, 2017    Advertisement
+version https://git-lfs.github.com/spec/v1
+oid sha256:adfc8ef485325718f2597f1ce51eeeaaf62413a2f37f37304b712322fe6bb356
+size 69
